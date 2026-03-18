@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Suara Sayang | Malaysian Musical History (1930s - Present)</title>
+    
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Wire+One&family=Lexend:wght@300;400;600&family=Outfit:wght@200;400;700&display=swap" rel="stylesheet">
+    
+    <link rel="stylesheet" href="style.css">
+</head>
+<body class="theme-dark">
+    <!-- Noise Overlay -->
+    <div class="noise-overlay"></div>
+
+    <header class="main-header">
+        <div class="header-content">
+            <h1 class="logo">Suara<span>Sayang</span></h1>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="#history" class="active">History</a></li>
+                    <li><a href="#about">About</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section class="hero">
+            <div class="hero-visual">
+                <img src="assets/images/page1_img1.jpeg" alt="Historical Record Player" class="hero-img">
+            </div>
+            <div class="hero-text">
+                <h2 class="display-title">Suasana Hari Raya</h2>
+                <h3 class="subtitle">A Journey Through Malaysia's Musical Soul</h3>
+                <p class="intro-desc">
+                    Explore the evolution of Malaysian music from the 1930s to the present day. 
+                    From the earliest shellac recordings of bangsawan superstars to the digital age of global icons, 
+                    this is the story of a nation heard through its songs.
+                </p>
+                <div class="scroll-indicator">
+                    <span class="scroll-dot"></span>
+                    <span class="scroll-text">Scroll to Explore</span>
+                </div>
+            </div>
+        </section>
+        <section id="chronicle" class="chronicle-section">
+            <div class="chronicle-bg-artifacts">
+                <img src="assets/images/page6_img1.jpeg" alt="Historical Poster" class="artifact-1">
+            </div>
+            
+            <div class="chronicle-track">
+                <div class="chronicle-progress">
+                    <div class="progress-line"></div>
+                    <div class="progress-indicator"></div>
+                </div>
+
+                <div class="chronicle-chapters">
+                    <article class="chapter" data-chapter="1">
+                        <div class="chapter-meta">Chapter I</div>
+                        <h2 class="chapter-title">The Origins <span class="year-range">1930s</span></h2>
+                        <div class="chapter-content">
+                            <p>Nearly a century after the earliest known "lagu Raya" recordings, the festive song tradition took root in the vibrant world of <strong>Bangsawan</strong> vaudeville opera.</p>
+                            <p>Bangsawan provided the platform for Malay composers to express themselves using modern Western instruments while retaining a distinct 'Malay' soul. HMV dominated the scene, setting up sister labels like Chap Kuching and Chap Singa.</p>
+                            <blockquote class="quote">"Bangsawan provided the platform for Malay composers and musicians to express themselves using modern instruments while retaining a 'Malay' feel." — Dr Raja Iskandar</blockquote>
+                        </div>
+                    </article>
+
+                    <article class="chapter" data-chapter="2">
+                        <div class="chapter-meta">Chapter II</div>
+                        <h2 class="chapter-title">The Jigsaw <span class="year-range">1940s</span></h2>
+                        <div class="chapter-content">
+                            <p>History became a "huge jigsaw puzzle" during the war years. Radios were banned, and much of the early documentation was lost to time.</p>
+                            <p>Yet, the seeds of the Raya song culture were being sown. It was a time of scarcity where owning a radio was a luxury, shared by the community during special events like the Thomas Cup.</p>
+                        </div>
+                    </article>
+
+                    <article class="chapter" data-chapter="3">
+                        <div class="chapter-meta">Chapter III</div>
+                        <h2 class="chapter-title">The Golden Age <span class="year-range">1950s - 1960s</span></h2>
+                        <div class="chapter-content">
+                            <p>The late 1950s saw the emergence of legends. P. Ramlee and Saloma were enthroned as the King and Queen of Song.</p>
+                            <p>Iconic hits like <em>Suara Takbir</em> and <em>Dendang Perantau</em> emerged, blending orchestral movements with heartfelt narratives of reunion and nostalgia. This era marked the transition from stage to screen, as movie musicals brought Raya songs into every home.</p>
+                        </div>
+                    </article>
+                </div>
+            </div>
+        </section>
+
+        <section id="decades-index" class="decades-section">
+            <div class="section-container">
+                <header class="decades-header">
+                    <h2 class="decades-title">Nukilan Lagu Raya</h2>
+                    <div class="decades-year">1936-2022</div>
+                </header>
+
+                <div class="index-grid" id="index-grid">
+                    <!-- Decades columns will be injected here via main.js -->
+                </div>
+            </div>
+        </section>
+
+        <section id="history" class="carousel-section">
+            <div class="section-badge">Featured Songs</div>
+            <div id="carousel-container" class="carousel-container">
+                <!-- Carousel will be injected here via main.js -->
+                <div class="carousel-track" id="carousel-track"></div>
+            </div>
+            
+            <div class="carousel-controls">
+                <button id="prev-btn" class="ctrl-btn">&larr;</button>
+                <div class="progress-bar">
+                    <div id="progress-fill" class="progress-fill"></div>
+                </div>
+                <button id="next-btn" class="ctrl-btn">&rarr;</button>
+            </div>
+        </section>
+
+        <!-- Card Detail Modal -->
+        <div id="card-modal" class="modal">
+            <div class="modal-backdrop"></div>
+            <div class="modal-content">
+                <button class="close-modal">&times;</button>
+                <div id="modal-body" class="modal-body">
+                    <!-- Detail content injected here -->
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer class="main-footer">
+        <p>&copy; 2026 Suara Sayang Project. Based on Marina Musical History.</p>
+    </footer>
+
+    <script type="module" src="src/js/main.js"></script>
+</body>
+</html>

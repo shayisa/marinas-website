@@ -1,0 +1,23 @@
+export const songs = [
+  {
+    "id": 1,
+    "title": "Selamat Hari Raya (1936)",
+    "performer": "Miss Aminah",
+    "link": "https://www.youtube.com/watch?v=yFG7FM9t2n0",
+    "lyrics": "Salamat Hari Raya sayalah ucapkan\nKepada ibubapa saudara sekalian\nTaulan kerabat hai handai dan taulan\nTualah dan muda laki laki perempuan\nPermulaan Syawal hai hari yang mullia\nAidil\ufb01tri penutup bulan puasa\nPintu terbuka untuk mengabulkan doa\nPaling utama bagi sesama manusia\nUmpat budi yang sudah terbanyak\nAmpun dan maaf sekarang diminta\nSupayalah azab kubur hai jangan mendesak\nSelamatlah kita di akhiratlah yang kelak\nWahai muslimin segala haiwani (2x)\nMendoalah kita kepada rabul illahi (2x)\nDipanjangkan umur dimurahkan rezeki (2x)\nTahunlah di muka boleh berjumpalah lagi (2x)",
+    "year": "1936",
+    "decade": "1930s-1950s",
+    "image": "original_sources/enhanced_images/page7_img2.png"
+  },
+  {
+    "id": 2,
+    "title": "Manusia Miskin Kaya (1953)",
+    "performer": "Lena Abdullah",
+    "link": "https://www.youtube.com/watch?v=OrNYlGhTypU",
+    "lyrics": "Manusia miskin kaya semua bergembira\nAku miskin hina\nBerselubung duka\n...\n[TRUNCATED FOR BREVITY IN PLAN]",
+    "year": "1953",
+    "decade": "1930s-1950s",
+    "image": "original_sources/enhanced_images/page8_img2.png"
+  },
+  // ... and so on for all 30 songs
+];
