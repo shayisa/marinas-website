@@ -8,7 +8,7 @@
     <!-- Google Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Wire+One&family=Lexend:wght@300;400;600&family=Outfit:wght@200;400;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Wire+One&family=Lexend:wght@300;400;600&family=Outfit:wght@200;400;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Space+Mono&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="style.css">
 </head>
@@ -61,11 +61,11 @@
                 <div class="chronicle-chapters">
                     <article class="chapter" data-chapter="1">
                         <div class="chapter-meta">Chapter I</div>
-                        <h2 class="chapter-title">The Origins <span class="year-range">1930s</span></h2>
+                        <h2 class="chapter-title">Bangsawan Roots <span class="year-range">1930s</span></h2>
                         <div class="chapter-content">
                             <p>Nearly a century after the earliest known "lagu Raya" recordings, the festive song tradition took root in the vibrant world of <strong>Bangsawan</strong> vaudeville opera.</p>
-                            <p>Bangsawan provided the platform for Malay composers to express themselves using modern Western instruments while retaining a distinct 'Malay' soul. HMV dominated the scene, setting up sister labels like Chap Kuching and Chap Singa.</p>
-                            <blockquote class="quote">"Bangsawan provided the platform for Malay composers and musicians to express themselves using modern instruments while retaining a 'Malay' feel." — Dr Raja Iskandar</blockquote>
+                            <p>HMV dominated the scene, with prima donnas like Miss Aminah setting the standard for Malayan recording stars before the war.</p>
+                            <button class="read-research" data-article-target="para-1">Read the Research</button>
                         </div>
                     </article>
 
@@ -73,22 +73,64 @@
                         <div class="chapter-meta">Chapter II</div>
                         <h2 class="chapter-title">The Jigsaw <span class="year-range">1940s</span></h2>
                         <div class="chapter-content">
-                            <p>History became a "huge jigsaw puzzle" during the war years. Radios were banned, and much of the early documentation was lost to time.</p>
-                            <p>Yet, the seeds of the Raya song culture were being sown. It was a time of scarcity where owning a radio was a luxury, shared by the community during special events like the Thomas Cup.</p>
+                            <p>History became a "huge jigsaw puzzle" during the war. Radios were banned, and documentation was lost to time.</p>
+                            <p>It was a time of scarcity where owning a radio was a luxury, strictly for the "well-off" or "important" like the ketua kampung.</p>
+                            <button class="read-research" data-article-target="para-2">Explore the Gaps</button>
                         </div>
                     </article>
 
                     <article class="chapter" data-chapter="3">
                         <div class="chapter-meta">Chapter III</div>
-                        <h2 class="chapter-title">The Golden Age <span class="year-range">1950s - 1960s</span></h2>
+                        <h2 class="chapter-title">Timeless Icons <span class="year-range">1950s</span></h2>
                         <div class="chapter-content">
-                            <p>The late 1950s saw the emergence of legends. P. Ramlee and Saloma were enthroned as the King and Queen of Song.</p>
-                            <p>Iconic hits like <em>Suara Takbir</em> and <em>Dendang Perantau</em> emerged, blending orchestral movements with heartfelt narratives of reunion and nostalgia. This era marked the transition from stage to screen, as movie musicals brought Raya songs into every home.</p>
+                            <p>The dawn of the movie musical era. P. Ramlee and Saloma were enthroned as the King and Queen of Song.</p>
+                            <p>Archival hits like <em>Suara Takbir</em> and <em>Dendang Perantau</em> captured the Serene and contemplative atmosphere of the period.</p>
+                            <button class="read-research" data-article-target="para-3">View the Sovereigns</button>
+                        </div>
+                    </article>
+
+                    <article class="chapter" data-chapter="4">
+                        <div class="chapter-meta">Chapter IV</div>
+                        <h2 class="chapter-title">Youth Energy <span class="year-range">1960s</span></h2>
+                        <div class="chapter-content">
+                            <p>The "Pop Yeh-Yeh" revolution. Electronic guitars infused traditional concepts with the raw energy of Malay youth.</p>
+                            <p>Market deejays and village kenduri operators spread the new sound across the archipelago using vinyl crates and tube speakers.</p>
+                            <button class="read-research" data-article-target="para-4">Track the Sound</button>
+                        </div>
+                    </article>
+
+                    <article class="chapter" data-chapter="5">
+                        <div class="chapter-meta">Chapter V</div>
+                        <h2 class="chapter-title">Evolution <span class="year-range">Modernity</span></h2>
+                        <div class="chapter-content">
+                            <p>As technology evolved, so did the songbook. From disco and punk covers to the sophisticated jazzy-pop of the industrial era.</p>
+                            <p>Yet, gaps in documentation remain—a rich, untapped field for future study into our collective musical legacy.</p>
+                            <button class="read-research" data-article-target="para-5">Future Traditions</button>
                         </div>
                     </article>
                 </div>
             </div>
         </section>
+
+        <!-- Article Reader Modal (New) -->
+        <div id="article-modal" class="modal article-reader">
+            <div class="modal-backdrop"></div>
+            <div class="modal-content editorial-noir">
+                <button class="close-modal">&times;</button>
+                <div class="article-inner">
+                    <header class="article-header">
+                        <div class="article-meta">Archives / Feature Entry</div>
+                        <h1 class="article-display-title">Uncovering the origins of the Hari Raya songbook</h1>
+                        <div class="article-attribution">By MARINA TAN | <span>The Star, Arts | 2023</span></div>
+                    </header>
+                    <div class="article-grid">
+                        <div class="article-main-text" id="full-article-content">
+                            <!-- Injected via main.js -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
 
         <section id="decades-index" class="decades-section">
             <div class="section-container">
