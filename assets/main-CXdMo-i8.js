@@ -1,0 +1,1150 @@
+(function(){const a=document.createElement("link").relList;if(a&&a.supports&&a.supports("modulepreload"))return;for(const e of document.querySelectorAll('link[rel="modulepreload"]'))t(e);new MutationObserver(e=>{for(const n of e)if(n.type==="childList")for(const r of n.addedNodes)r.tagName==="LINK"&&r.rel==="modulepreload"&&t(r)}).observe(document,{childList:!0,subtree:!0});function i(e){const n={};return e.integrity&&(n.integrity=e.integrity),e.referrerPolicy&&(n.referrerPolicy=e.referrerPolicy),e.crossOrigin==="use-credentials"?n.credentials="include":e.crossOrigin==="anonymous"?n.credentials="omit":n.credentials="same-origin",n}function t(e){if(e.ep)return;e.ep=!0;const n=i(e);fetch(e.href,n)}})();const o=[{id:1,title:"Selamat Hari Raya",year:"1936",performer:"Miss Aminah",composer:"Tengku Ali Basha aka Che Ara Bangsawan",lyrics:`Salamat Hari Raya sayalah ucapkan
+Kepada ibubapa saudara sekalian
+Taulan kerabat hai handai dan taulan
+Tualah dan muda laki laki perempuan
+
+Permulaan Syawal hai hari yang mullia
+Aidilfitri penutup bulan puasa
+Pintu terbuka untuk mengabulkan doa
+Paling utama bagi sesama manusia
+
+Umpat budi yang sudah terbanyak
+Ampun dan maaf sekarang diminta
+Supayalah azab kubur hai jangan mendesak
+Selamatlah kita di akhiratlah yang kelak
+
+Wahai muslimin segala haiwani (2x)
+Mendoalah kita kepada rabul illahi (2x)
+Dipanjangkan umur dimurahkan rezeki (2x)
+Tahunlah di muka boleh berjumpalah lagi (2x)`,infoMalay:"Melalui hasil kajian daripada penyelidik muzik Mohammad Hashim, kita mempelajari bahawa karya pengedaran HMV ini merupakan lagu Raya pertama yang dirakam dalam sejarah Tanah Melayu. Artis-artis pelopor tanah air merupakan bintang handalan bangsawan. Dilahirkan pada 1919, Miss Aminah merupakan anak kepada penggiat bangasawan, Raden Nani, dan isterinya, Fatimah Abdullah (dilahirkan Catherine De Bress) yang berbangsa Serani. Kita dapat mendengar suara primadona tersebut pada hari ini lantaran usaha jitu para penjaga artifak sejarah yang menjadi titik tunjang penemuan ini iaitu piring hitamnya. Sebelum 1948, piring hitam dihasilkan dengan piring syelek diisi sabak (juga dikenali sebagai rekod batu) yang menjadikannya sangat rapuh. Oleh hal sedemikian, banyak rekod batu telah luput dek zaman. Lirik lagu ini menggambarkan ketakwaan dan silaturrahim sebagai tumpuan utama pada musim Raya pada zaman itu. Pengakhirannya - Tahunlah di muka boleh berjumpalah lagi - menzahirkan realiti yang lebih mencabar pada zaman tersebut, di mana perkhidmatan kesihatan sekadar asas. Sentimen ini tidak asing bagi kita yang telah melalui pandemik Covid.",infoEnglish:"From music researcher Mohammad Hashim, we know that this HMV release was the first ever recorded Raya song. Malaya's first few recording artists were bangsawan superstars. Born in 1919, Miss Aminah was born to a bangsawan practitioner, Raden Nani, and his Eurasian wife, Fatimah Abdullah (nee Catherine De Bress). The fact that we are able to hear this primadonna's voice today is testimony to the painstaking care of the keepers of the actual historical artifact — the record. Before 1948, records were made of slate-impregnated shellac records (aka rekod batu), which were highly breakable. Countless other rekod batu did not survive beyond their era. The lyrics reflect the era's focus on Raya as a time for piety and community ties. Its ending — may we meet again next year — reflects a more challenging time, with more basic healthcare. It's not an unfamiliar sentiment, in light of our Covid pandemic experience.",youtubeLink:"https://www.youtube.com/watch?v=yFG7FM9t2n0",image:"images/page7_img2.png"},{id:2,title:"Manusia Miskin Kaya",year:"1953",performer:"Lena aka Lena Abdullah (dubbing for Normadiah)",composer:"P Ramlee",lyricist:"Jamil Sulong",extra:"From OST of the film Siapa Salah",lyrics:`Manusia miskin kaya semua bergembira
+Aku miskin hina
+Berselubung duka
+
+Mereka berpakaian indah
+Serba-serbi semua mewah
+Mereka berpakaian indah
+Serba-serbi semua mewah
+
+Aku saja sedih hati
+Pakaian pun tak berganti
+
+Manusia miskin kaya semua bergembira
+Aku miskin hina
+Berselubung duka
+
+Hari raya orang bersuka
+Melawat sanak dan saudara
+Hari raya orang bersuka
+Melawat sanak dan saudara
+
+Tetapi aku berduka
+Dengan titis air mata
+
+Manusia miskin kaya semua bergembira
+Aku miskin hina
+Berselubung duka`,infoMalay:'Industri filem Tanah Melayu mengeluarkan filem sulungnya, Leila Majnun, pada 1934 (dirakam di Singapura dan diarahkan oleh B.S. Rajhans yang berasal dari India). Tema dan kebanyakan pelakon filem ini disumberkan dari alam bangsawan. Setelah tamatnya Perang Dunia Kedua, industri filem tempatan bersatu semula dan menjadi pentas penyebaran kebudayaan kepada rakyat marhaen. Lagu ini dinyanyikan oleh Lena Abdullah (dilahirkan Lena de Souza), penyanyi dan artis alih suara terkenal. Untuk lagu ini, beliau menjadi suara nyanyian watak yang dimainkan oleh Normadiah dalam filem "Siapa Salah". Makna di sebalik lagu ini menyampaikan tema filem tersebut yang menyentuh tentang kebajikan/keadilan sosio-ekonomi dan juga persoalan yang kian dibicarakan iaitu jurang antara miskin dan kaya. Lagu ini juga merupakan karya gubahan awal dalam kerjaya dua penggiat muda yang kemudian menjadi gergasi industri filem - P.Ramlee dan Jamil Sulong.',infoEnglish:"The Malayan movie industry aired its first film Leila Majnun in 1934 (filmed in Singapore and directed by B.S. Rajhans of India). The theme and actors were largely, if not all, from the bangsawan scene. Forced into hiatus in World War 2, the film industry regrouped after the war and became a key disseminator of culture to the people. The song was performed by Lena Abdullah (born Lena de Souza), a famous songstress and dubbing artiste. In this case, she provided the singing voice for Normadiah in the film Siapa Salah. The song encapsulates the movie's theme, raising questions of economic social welfare/justice and the age-old issue of the rich-poor divide. The song is also significant as an early composition by two young upstarts who became giants in the film industry — P. Ramlee and Jamil Sulong.",youtubeLink:"https://www.youtube.com/watch?v=OrNYlGhTypU",image:"images/page8_img2.png"},{id:3,title:"Aidilfitri (aka Selamat Hari Raya)",year:"1955",performer:"Nona Asiah & Kamsani",composer:"Zubir Said",lyricist:"Yusnor Ef",lyrics:`Sembahyang Hari Raya bersama-sama
+Tafkafur dengan kutbah alim ulama
+Sujud dan bertaubat kepada Tuhan
+Muslimin dan muslimat bermaaf-maafan
+
+Selamat Hari Raya Aidilfitri
+Ku tujukan kepada putera dan puteri
+Ayah dan bonda yang ku junjung tinggi
+Mohon ampun dan maaf yang ikhlas diberi
+
+Wahai pak long dan mak long orang budiman
+Serta pak cik dan mak cik orang dermawan
+Salah silap jangan jadi dendaman
+Sejak pada ini hari mohon dilupakan
+
+Pada abang dan kakak yang lebih tua
+Atau pun pada adik yang masih muda
+Ucapanku selamat Aidilfitri
+Panjang umur usia dan murah rezeki
+
+Kehadapan suami wahai junjungan
+Maaf lahir dan batin mohon cucurkan
+Kalau silap laku dan perkataan
+Saya mengatur sembah mohon diampunkan
+
+Pada handai taulan serta sahabat
+Beserta anak isteri kaum kerabat
+Salam dan maaf dunia akhirat
+Mudah-mudahan semua sempurna dan rahmat`,infoMalay:'Ramai yang terkejut apabila mengetahui bila sebenarnya lagu Raya popular ini dikeluarkan (tetapi dengan lirik berbeza). "Aidilfitri" ditulis bersama oleh Zubir Said, penduduk Singapura yang berasal dari Indonesia, dan Yusnor Ef, seorang anak jati Singapura, pada zaman di mana pergerakan seantero nusantara lebih bebas. Bahasa halus dan minor key dalam lagu ini meneruskan fokus terhadap Raya sebagai peristiwa yang bernada serius dan masih menekankan aspek keagamaan. Dan sebenarnya, persoalan mengenai kenegaraan dan kelangsungan hidup merupakan kegusaran utama pada zaman tersebut. Pada waktu itu, kita berada di ambang kemerdekaan dan sungguh sesuai bahawa lagu ini, yang menjangkau masa, asalnya dinyanyikan oleh diva moden terampil — Nona Asiah. Anak ajaib berlatarbelakangkan bangsawan ini menandatangani kontrak pertama bersama Radio Malaya pada umur 16 tahun, dan di situ bermula perjalanannya. Pada kemuncak kerjayanya, kejayaan Nona Asiah begitu hebat sehingga beliau mampu membeli kereta sport MG merah — untuk dipandu dengan penuh gaya! Pada umur 95 tahun, beliau masih meneruskan hidup sebagai ikon industri seni di Singapura.',infoEnglish:`Many are surprised at how far this Raya classic dates back (albeit with different lyrics). "Aidilfitri" was co-written by Indonesian transplant / Singapore resident Zubir Said and Singapore-born Yusnor Ef, in the days when nusantara inter-migration was more fluid. The elegant language and minor key continue to reflect the focus on Raya as a solemn and religious occasion. And in truth, questions of nationhood and survival were at the forefront of the times. We were on the cusp of Merdeka, and it's fitting that this song, transcending time, was originally performed by a transcendent modern diva — Nona Asiah. This bangsawan child prodigy landed her first Radio Malaya contract at 16, and never looked back. At her peak, Nona Asiah earned enough to buy herself a red MG sportscar — so she could drive to work in style, of course! She's still thriving today at the age of 95 plus, in Singapore.`,youtubeLink:"https://www.youtube.com/watch?v=WC4Q9ku9iuM",image:""},{id:4,type:"combined",title:"Selamat Hari Raya",title2:"Suara Takbir",year:"1955",performer:"Saloma (Salma Ismail) & P Ramlee",composer:"Ahmad Jaafar",lyricist:"Ahmad Jaafar",lyrics:`Selamat Hari Raya
+Selamat Aidilfitri
+Kepada saudara serta saudari
+Setahun hanya sekali
+Merayakan hari yang mulia ini
+
+Di masa bulan Ramadan
+Kita berpuasa hingga sebulan
+Pabila Syawal menjelma
+Hari raya disambut dengan gembira
+
+Miskin kaya memakai baju baru warna-warni
+Mengunjungi sanak kaum famili
+Sungguh hebat pemandangan di hari raya ini
+Tua muda wajah berseri-seri
+
+Selamat Hari Raya
+Pada saudari saudara semua
+Marilah dengan gembira
+Merayakan Aidilfitri yang mulia
+
+Di sana kelihatan
+Bermacam kuih ketupat dan rendang
+Mintak bu kuih sepotong
+Saya mau makan kerna perut kosong
+
+Dam dam dum bunyi mercun
+Kanak-kanak segera datang berduyun
+Dam dam dum mercun berdentum
+Semaraklah hari raya ini tahun
+
+Maafkanlah jika ada terlanjur perkataan
+Diharap supaya jangan disimpan
+Ku berdoa selamat panjang umur murah rezeki
+Semoga Tuhan akan memberkati
+
+Selamat Hari Raya
+Hari untuk kita bersuka ria
+Selamat hari ucapkan
+Untuk kita sampai tahun depan
+
+Selamat Hari Raya!`,lyrics2:`Dengar beduk berbunyi
+Sayup bergema di subuh sunyi
+Memanggil kepada muslimin
+Segera berbakti kepada Illahi
+
+Suara azan mengalun
+Terdengar sayup di subuh sunyi
+Memohon restu dengan bakti
+Kepada Illahi Tuhan Maha Suci
+
+Terdengar suara takbir
+Muji nama Illahi
+Rasa dalam kalbu
+Tenteram dan aman selalu
+
+Kini tiba masanya
+Hati gembira di Hari Raya
+Bertemu sanak dan saudara
+Bermaaf-maafan dengan keikhlasan
+
+Terdengar suara takbir
+Muji nama Illahi
+Rasa dalam kalbu
+Tenteram dan aman selalu
+
+Kini tiba masanya
+Hati gembira di Hari Raya
+Bertemu sanak dan saudara
+Bermaaf-maafan dengan keikhlasan`,infoMalay:'Pada zaman ini, seni filem mula menjadi lebih popular dan menggantikan persembahan pentas sebagai cara utama budaya disebarkan kepada rakyat marhaen. Ahli seni bangsawan melepaskan reputasi mereka sebagai bintang dan pelakon filem pula mengambil alih ruangan minda tersebut. Di sini juga Pasangan Terampil dalam Muzik tanah air muncul: P. Ramlee dan Saloma. "Selamat Hari Raya" oleh Saloma (Salmah Ismail) merupakan lagu Raya pertama yang kerap mendapat permintaan oleh pendengar radio. Sebelum ini, kebanyakan permintaan lagu ditujukan untuk lagu terkenal dari negara Barat meskipun ketika sambutan Raya. Kecenderungan ini bukan sesuatu yang mengejutkan untuk sebuah negara yang masih dijajah pada waktu tersebut. Lagu "Suara Takbir" oleh P. Ramlee pula menceritakan tentang satu ketika di mana tiada kewujudan lalu lintas sibuk dan beduk masih digunakan sebagai penyeru solat subuh. Dua tahun sebelum mencapai kemerdekaan, masa depan Tanah Melayu kelihatan cerah meskipun terdapat pelbagai cabaran. Komposisi lagu-lagu ini menunjukkan gaya kehidupan yang lebih santai dan Raya disambut dengan penuh keriangan, keindahan, dan keanggunan.',infoEnglish:"With movies taking centrestage as the primary form of cultural communication to the masses, this era marked the handover of super-stardom from bangsawan to film stars. It also enthroned Malaysia's Royal Couple of Song: P Ramlee and Saloma. Saloma's (Salmah Ismail's) Selamat Hari Raya was the first Raya hit song to be widely requested by radio listeners. (Prior to this, as per our colonialised state, radio listeners requested Western popular music, even for Raya.) P Ramlee's Suara Takbir calls back a time before rush-hour traffic, and before microphones/PA systems — when the pre-dawn silence was broken by the resonant beduk, a traditional Nusantara drum used as the call to prayer. Two years to Merdeka, Malaya was full of possibilities laid before it as an uphill climb. The arrangement of these songs paint a comparatively gentler pace of life, and Raya as a time of joy, grace, and beauty.",youtubeLink:"https://www.youtube.com/watch?v=MTxDr2tUy9A",image:"images/page10_img2.png"},{id:5,title:"Unnamed OST Raya song clip",year:"1958",performer:"",extra:"from the film Doctor (dir. Phani Majumdar)",lyrics:`Selamat berhari raya
+Aidilfitri mulia
+Marilah kawan-kawanku
+Kita bersuka menyanyi ria
+(2x)
+
+Wajiblah bersyukur
+Ke hadratnya Illahi
+Hidup kita damai
+Riadah mewah dengan kasih mesra
+
+Biar miskin harta
+Tetapi kaya cita-cita
+Berbudi dan bahasa
+Disanjung manusia
+
+Disanjung manusia!
+
+Jangan tunjuk susah
+Tak guna sedih hati
+Jika rasa duka
+Lindungkan dengan senyum dan ketawa`,infoMalay:"Segmen muzik dalam filem ini menonjolkan warga kampung berseronok melayani muzik pada Hari Raya. Filem Doktor merupakan sebuah adaptasi yang diarahkan oleh Phani Majumdar yang berasal dari India. Adaptasi ini berdasarkan filemnya Dhobi Doctor yang dilancarkan pada tahun 1954. Filem ini merumuskan persoalan dan aspirasi yang mengisi hati warga Malaya – siapa yang mendapat hasil pembangunan negara? Sebenarnya, kita perlu melahirkan lebih banyak doktor dan graduan berkemahiran lain yang diperlukan oleh tanah air! Tidak dinafikan kota raya penuh dengan peluang baharu tetapi juga terdapat pelbagai cabaran. Mudah untuk kita lupakan diri, maka pentingnya kita bersyukur dengan apa yang ada dan sentiasa bermuhasabah. Lirik-lirik lagu ini juga menggambarkan kesukaran sebagai perkara biasa, justeru kita jangan terlalu lama melayan perasaan kecewa. Apa aspirasi yang sepatutnya? Bersyukur dengan setiap kerahmatan yang dikurniakan. Jika anda miskin harta, tidak semestinya miskin cita-cita dan hala tuju. Jangan dilupakan juga untuk menjadi orang yang berbudi bahasa. Itulah jalan ke arah kehidupan bermakna.",infoEnglish:"This musical segment depicts rural folk in times past indulging in musical merrymaking for Hari Raya. The film Doktor, adapted by director Phani Majumdar of India from his 1954 hit Dhobi Doctor, aptly encapsulates the questions and aspirations of a new Malaya -- who benefits from development? We need to start producing more of our own doctors and other graduates needed by our nation! The big city offers opportunities, but also threats — it's easy to lose your way, so savour what you have and remember who you are. The lyrics also paint challenge and hardship as a given — so don't dwell on them, and don't let them get you down. The ideal aspirations? Be grateful for your blessings and savour your joys. Even if you're poor in material wealth, be rich in goals and dreams, be considerate and courteous. That's the road to high esteem, by oneself and others!",youtubeLink:"https://www.youtube.com/watch?v=CLJuKD3iYmI",image:""},{id:6,title:"Dendang Perantau",year:"1966/1967",performer:"P Ramlee",composer:"P Ramlee",lyricist:"S Sudarmaji",lyrics:`Di hari raya
+Terkenang daku kepada si dia
+Kampungku indah nun jauh di sana
+Ayah serta bondaku
+
+Di tepian mandi
+Danauku hijau yang damai selalu
+Nun di sanalah tempatku bertemu
+Aku dan dia
+
+Apakan daya
+Masa tak akan kembali
+Hancur musnahlah semuanya
+
+Impian yang murni
+Tinggal menjadi kenang-kenanganku
+Hanya rangkaian kata dengan lagu dendang perantau
+
+Apakan daya
+Masa tak akan kembali
+Hancur musnahlah semuanya
+
+Impian yang murni
+Tinggal menjadi kenang-kenanganku
+Hanya rangkaian kata dengan lagu dendang perantau`,infoMalay:'Karya ini diterbitkan beberapa tahun setlepas kelahiran negara Malaysia setelah berlangsungnya penyatuan Tanah Melayu bersama Sabah (dahulunya Borneo Utara), Sarawak, dan Singapura. Pandangan hidup pada waktu tersebut dicorakkan oleh semangat perubahan dan pemodenan. Allahyarham P. Ramlee mengambil langkah berani memperkenalkan bunyi gitar elektrik moden pada konsep tradisional Hari Raya dalam Dendang Perantau. Kebetulan juga, pelbagai karya seni dari Tanah Melayu telah "dikemas kini" menjadi versi Malaysia yang moden dan baharu termasuk lagu-lagu seperti Tanah Pusaka, dan Selamat Hari Raya oleh Saloma. Pada permulaan penubuhan Malaysia, golongan pemuda lelaki masih mengamalkan penghijrahan dari luar bandar untuk mencari rezeki yang lebih lumayan melalui peluang pekerjaan di kawasan bandar. Lagu ini masih menarik hati rakyat jelata kerana sehingga hari ini masih ramai anak muda di Malaysia yang meninggalkan kampung halaman untuk mencari peluang kerjaya dan pendidikan di bandar.',infoEnglish:"Released a few years after Malaya adopted the new name of Malaysia upon the unification of Malaya with Sabah (formerly North Borneo), Sarawak, and Singapore, the zeitgeist was brimming with feelings of change and modernisation. Adding a bold twist to the traditional ideas of Hari Raya, P. Ramlee integrated the galvanising sounds of a modern electric guitar into Dendang Perantau. Incidentally during this period, many materials from Malaya were 'updated' with new modern Malaysia versions and this included songs such as Saloma's Selamat Hari Raya and even Tanah Pusaka. In the early years upon the formation of Malaysia, the tradition still resonated of young men leaving the countryside to seek better fortunes by finding work in towns and cities. The song still pulls at the heartstrings of many Malaysians as the country today is still a mix of rural hometowns and urban hotspots.",youtubeLink:"https://www.youtube.com/watch?v=5Y0eF5nomHY",image:"images/page13_img2.png"},{id:7,type:"album",title:"Selamat Hari Raya (ALBUM)",year:"1973",performer:"Various Artists",extra:"1st landmark compilation album, produced by Kassim Masdor for EMI",tracklist:`7.01 - Saloma - Selamat Hari Raya
+7.02 - Sharifah Aini – Hari Yang Mulia
+7.03 - Sanisah Huri – Aidil Fitri
+7.04 - Rafeah Buang – Bila Takbir bergema
+7.05 - Junainah M. Amin – Suasana Riang (Di Hari Raya)
+7.06 - P. Ramlee – Dendang Perantau
+7.07 - Sanisah Huri – Bersabarlah Sayang
+7.08 - Fazidah Joned – Selamat Hari Raya
+7.09 - Eddynor Ali – Manusia Miskin Kaya
+7.10 - Ahmad Jais – Selamat Hari Raya`,infoMalay:"Bila tiada lagi kewujudan senarai main digital dan mixtape olahan sendiri, pendengar lagu Raya arus perdana semestinya memilih album kompilasi sebagai sumber koleksi lagu-lagu Raya yang popular. Selamat Hari Raya bukan sahaja album kompilasi pertama di Malaysia, album tersebut juga merupakan antara hasil seni yang paling penting dalam sejarah negara kita. Banyak lagu dalam album ini masih diputarkan di radio dan saluran televisyen. Antara lagu-lagu yang masih popular ialah Bila Takbir Bergema oelh Rafeah Buang dan Suasana Riang Di Hari Raya oleh Junainah M. Amin. Tidak dilupakan juga, album ini mengandungi versi moden beberapa lagu-lagu klasik seperti Hari Raya oleh Saloma dan Dendang Perantau oleh P. Ramlee yang ditambahkan bunyi rancak zaman 70-an. Ini adalah versi-versi lagu tersebut yang kian relevan sehingga hari ini kerana siapa sahaja yang boleh melupakan alunan gitar elektrik yang ikonik itu?",infoEnglish:"In place of curated digital playlists and self-spliced mixtapes, the mainstream audience of Raya songs are more than happy to get their collection of hits through compilation albums. This particular album was not only Malaysia's first but it went on to become one of the most significant pieces of media in our history. Even now, many of the songs on it are oft-played classics such as Rafeah Buang's Bila Takbir Bergema and Junainah M. Amin's Suasana Riang Di Hari Raya. Adding a cherry on top, the album also contained modernised versions of Saloma's Selamat Hari Raya and P. Ramlee's Dendang Perantau that were revitalised with the hip and jazzier sounds of the 70's. These are the versions that we know and love today because who can ever forget that iconic electric guitar riff?",youtubeLink:"https://www.youtube.com/watch?v=ZqP06RlaUP8",discogsLink:"https://www.discogs.com/master/2614916-Various-Selamat-Hari-Raya-Aidilfitri",image:""},{id:8,title:"Menjelang Hari Raya",year:"1977",performer:"DJ Dave",composer:"S Atan",lyricist:"Kamali Hudi",extra:"Included in the landmark compilation album Bergembira di Hari Raya, produced by Ahmad Nawab for EMI",lyrics:`Menjelang hari raya
+Berakhirnya puasa
+Bergema takbir senja
+Menyambut syawal tiba
+
+Suasana riang ria
+Terlihat sini sana
+Menyeri malam raya
+Terhias indah rupa
+
+Oh cantik berseri-seri
+Tua dan muda berpakaian serba baru
+Oh sungguh meriahnya
+Miskin kaya pun turut bergembira
+
+Selamat hari raya
+Aidil fitri mulia
+Semoga berbahagia
+Hidup aman sentosa`,infoMalay:"Disinari cahaya disko zaman dan fesyen bergaya 1970-an, Menjelang Hari Raya menampilkan sambutan terhadap alunan muzik yang menggalakkan aktiviti tari-menari pada zaman tersebut. Pada waktu tersebut, kebanyakan rumah-rumah di Malaysia masih tidak mempunyai telefon tetapi katrij 8 trek dan kaset sememangnya sudah popular dan berkebolehan mengubah mana-mana kereta menjadi kenderaan disko. Zaman ini menunjukkan betapa pentingnya peranan teknologi dalam menyebarkan karya seni kepada golongan marhaen. Waktu ini juga merupakan kemuncak Era Pembangunan di mana terdapat pelbagai usaha untuk membangunkan kawasan pedalaman seperti Lembaga Kemajuan Tanah Persekutuan (Felda/LKTP). Memori pahit tragedi May 1969 masih segar dalam jiwa rakyat dan para pemimpin pada waktu itu mengambil keputusan untuk memastikan pembangunan dan kemakmuran dapat dikongsikan secara saksama oleh semua rakyat Malaysia, terutama sekali penduduk kawasan pedalaman.",infoEnglish:"Bathing in the disco lights of the 70's and its vibrant fashion scene, Menjelang Hari Raya displayed an embrace towards the dancey groove engendering popular music of that period. Telephones were still not commonplace within Malaysian homes but 8-track cartridges and also cassettes had become mainstream and were more than capable of transforming any car, whether kampung or kota, into a disco mobile. It was an exemplary time in showing technology's role in propagating art. The country was in the heyday of Era Pembangunan (Development Era), during which there were concerted efforts to see to rural welfare and development, including the Federal Land Development Authority (Felda). Memories of the May 1969 incident still lingered within the minds of the rakyat and the country's leaders considered it necessary to design frameworks that would allow the benefits of growth and prosperity to be shared nationwide amongst all Malaysians, especially the rural population.",youtubeLink:"https://www.youtube.com/watch?v=6Klhzilyqbg",image:"images/page15_img2.png"},{id:9,title:"Balik Kampung",year:"1984",performer:"Sudirman",composer:"S Atan",lyricist:"Sudirman",lyrics:`Perjalanan jauh tak ku rasa
+Kerna hati ku melonjak sama
+Ingin berjumpa sanak saudara
+Yang selalu bermain di mata
+
+Nun menghijau gunung ladang dan rimba
+Langit nan tinggi bertambah birunya
+Deru angin turut sama berlagu
+Semuanya bagaikan turut gembira
+
+Balik kampung ho ho ho (2x)
+Balik kampung
+Hati girang
+(2x)
+
+Terbayang wajah-wajah yang ku sayang
+Satu-satu tersemat di kalbu
+Pasti terubat rindu di hati
+Menyambut kepulangan ku nanti`,infoMalay:'Pembangunan kawasan bandar di Malaysia berkembang seiring bersama perjalanan negara bangsa yang semakin matang dan perkara ini menjadikan penghijrahan ke bandar Kuala Lumpur satu keputusan penting untuk rakyat yang ingin mencari peluang pekerjaan dan pendidikan. Panggilan seperti minah karan atau minah kilang menunjukkan kemunculan golongan wanita dari kelas pekerja yang gigih menyertai alam pekerjaan pada zaman 1980-an. Oleh itu, lagu Balik Kampung oleh Sudirman disukai oleh rakyat Malaysia tanpa mengira agama dan bangsa kerana golongan penduduk bandar berkongsi perasaan rindu terhadap kampung halaman. Sudirman dikenali sebagai "Seniman Rakyat" kerana beliau menampilkan imej yang menjiwai slogan "bersih, cekap, amanah" yang popular pada waktu tersebut. Lagu-lagu beliau menimbulkan semangat bersatu-padu dalam kalangan golongan marhaen kerana setiap karyanya dekat di hati mereka yang berusaha untuk mengubah nasib hidup diri sendiri dan juga orang tersayang yang masih menetap di kampung.',infoEnglish:`As urban development became more synonymous with the maturity of Malaysia as an independent nation, migration to the big city of Kuala Lumpur was inevitable for Malaysians to seek work and further their studies. This was evident thanks to the birth of terms such as minah karan or minah kilang (factory girl) which represented the rapid emergence of working class women in 1980's Malaysia. Sudirman's Balik Kampung thus gained universal prominence across racial divides amongst Malaysians due its lyrics being an accurate snapshot of the emotions that occupied most city-dwellers' hearts. Known as the "People's Singer", Sudirman embodied the innocence, hard work, and success potential behind the "bersih, cekap, amanah" slogan. His songs held the power to unite people, especially the working class, under the shared sentiments of being everyday Joes and Janes who wanted better lives not only for themselves but also their loved ones who remained in the kampung.`,youtubeLink:"https://www.youtube.com/watch?v=y46cFjmkNh8",image:"images/page16_img2.png"},{id:10,title:"Jangan Buek Laie, Yo",year:"1985",performer:"Ally Noor & Mastura",extra:"Loghat minang",lyrics:`(SPOKEN)
+F - Opocot copot... Ish budak ni, takdo kojo lain agak eh. Poie laa main jauh sikit, bingit tolingo di buek eh
+
+M - setaun sekali
+
+F - poso eh tak ponah cukup
+ghayo eh lobih dari budak-budak laie.
+bahayo jang, kok tak terbako umah
+tu kang, jari ko tu yang hangus
+
+M - meriam buluh main dek oghang,
+mocun plak, sajo yo nak marah
+
+F - buek laaa
+
+M - aduih maaak..
+
+F - haa..apo, dah terbakar
+
+(SUNG)
+F - Dah den kobaan tadi
+Jangan jang main mocun
+Ekau buek tak ghoti
+Apo to meraung
+
+M - Kobeh raso eh jari
+Copek mak panggil dukun
+Kalau dukun tak ghasi
+Panggil ajo ambulan
+
+F - Janganlah jangan ujang
+Ekau sosaan laie
+Mari omak balutkan
+Bongkak nanah di jari
+
+Mano nak kau sarungkan
+Cincin tunang kau nanti
+Milah yang kau idamkan
+Takkan ondak dio laie
+
+M - Itulah omak togah
+Inilah omak larang
+Semuo sey buek salah
+Tak ponah omak sonang
+
+F - Dongar sini botuah
+Anak omak sayang
+Semuo eh yang den togah
+Takut kau dapek malang
+
+Dah den kobaan tadi
+Jangan jang main mocun
+Ekau buek tak ghoti
+Apo to meraung
+
+M - Kobeh raso eh jari
+Copek mak panggil dukun
+Kalau dukun tak ghasi
+Panggil ajo ambulan
+
+F - Hari ghayo hari mulio
+Jangan jang buek pokaro
+Memang salah kau sendiri
+Tengok apo dah jadi
+
+Esok bilo dilarang
+Jangan buek laie yo
+Satu laie posan den
+Dongar cakap orang tuo
+
+M - Itulah omak togah
+Inilah omak larang
+Semuo sey buek salah
+Tak ponah omak sonang
+
+F - Dongar sini botuah
+Anak omak sayang
+Semuo eh yang den togah
+Takut kau dapek malang
+
+(SPOKEN)
+M - sey minta ampun yo mak yo
+F - yolah, tapi jangan buek laie yo
+M - yo.yo.yo..yo
+F - budak ini....`,infoMalay:"Di samping karya dan media berloghat lain yang popular seperti lagu Apo Nak Dikato oleh Blues Gang dan pasangan komedi Pak Man Telo yang berasal dari Pulau Pinang, Jangan Buek Laio, Yo merupakan lagu Raya loghat Minang yang popular pada zaman tersebut. Kedua-dua penyanyi lagu ini iaitu Ally Noor dan Mastura mengeluarkan beberapa lagu yang menceritakan tentang kehidupan dan cabaran dihadapi penduduk kampung. Pada waktu lagu ini dilancarkan, Felda sudah hampir 30 tahun mencorakkan pembangunan Malaysia. Anak-anak kepada penduduk dan peneroka Felda telah mencapai umur dewasa dan mula mengejar cita-cita masing-masing. Fenomena pemindahan ke bandar menjadi satu kebiasaan di negara kita. Pelbagai peluang menarik muncul di pusat bandar, maka penghijrahan ke kawasan baharu tidak lagi boleh dielak. Kini hampir 40 tahun telah berlalu sejak pelancaran lagu ini dan banyak perkara yang disebut dalam lirik lagu masih kekal relevan seperti bahaya bermain mercun dan kemalangan ketika balik kampung. Malangnya, Ally Noor dan Mastura ditewaskan musuh besar artis muzik – cetak rompat berunsurkan rasuah.",infoEnglish:"Alongside other regional accented media such as Blues Gang's Apo Nak Dikato and Penang-born comic duo Pak Man Telo, Jangan Buek Laio, Yo was the era's standout loghat Minang hit for Raya. Singers Ally Noor and Mastura had a slew of hits featuring the life stories and challenges faced by rural residents. By the time of the song's release, Felda had been part of Malaysia's growth for almost 30 years. The children of Felda residents were beginning to chart their own courses and thus came the universal push for urban migration. Burgeoning opportunities presented themselves in urban centres and it made migration a must rather than a desire. Now 40 years has almost passed since this song's release and some things seem to be coming full circle, such as the dangers of firecrackers and the epidemic of balik kampung road accidents. Sadly, the two singers were felled by one of the biggest challenges facing music artists in the coming years — corruption-related music piracy.",youtubeLink:"https://www.youtube.com/watch?v=Ew5ZfFOR66M",image:""},{id:11,title:"Suasana Hari Raya",year:"1985",performer:"Anuar & Ellina",composer:"Adnan Abu Hassan",lyricist:"Habsah Hassan",lyrics:`Berlalulah sudah ramadan sebulan berpuasa
+Tiba syawal kita rayakan dengan rasa gembira
+Anak muda di rantauan semuanya pulang ke desa
+Ibu dan ayah keriangan bersyukur tak terkira
+
+Bertukar senyuman dan salam ziarah-menziarahi
+Tutur dan kata yang sopan saling memaafi
+Suasana hari raya walau dimanapun jua
+Memberikan ketenangan dan mententeramkan jiwa
+
+Kuih dan muih beranika macam
+Makanlah jangan hanya di pandang
+Ketupat rendang sila nikmati kawan
+Penat memasak malam ke pagi
+
+Wajik dan dodol jangan lupakan
+Peninggalan nenek zaman berzaman
+Asyik bersembang pakcik dan makcik
+Hai duit raya lupa nak diberi`,infoMalay:"Ramai warga Malaysia percaya bahawa 1980-an merupakan zaman kegemilangan untuk muzik, bidang-bidang niche, dan subbudaya. Persekitaran terbuka yang memudahkan penembusan ke dalam minat baharu menjadi pemangkin kemunculan artis-artis baharu serta para peminat mereka. Terdapat juga banyak kumpulan pelajar dari Malaysia yang meneruskan pengajian di luar negara seiring dengan cita-cita Malaysia untuk menyertai komuniti antarabangsa. Oleh hal yang sedemikian, perkongsian silang budaya dalam bidang seni juga berlaku secara bebas. Pada waktu tersebut, Anuar Zain dan Ellina Razak masih berumur remaja dan langsung tidak sangka Suasana Hari Raya akan memberikan impak yang begitu besar. Lagu tersebut menjadi sangat popular dan kekal sebagai lagu raya yang disukai sehingga hari ini. Lagu nyanyian remaja sangat disukai oleh pendengar yang lebih berumur dan pita kaset pula membenarkan pelajar Malaysia di luar negara untuk mendengar lagu ini dengan mudah. Anuar dan Ellina menjadi ikon pop yang menampilkan imej ceria dan murni, dan ini menjadikan mereka satu keunikan dalam industri muzik pada zaman tersebut.",infoEnglish:"Many Malaysians would agree that the 1980's was considered the golden era for music, niches, and subcultures. Emergence of new artists and fans was bolstered by an environment of openness where barriers were lowered to allow more newcomers into the scene. In line with the country's desire to engage in international exchange, there were big batches of Malaysian students going overseas to further their studies. This further catalysed the cross-cultural dissemination of art. Both teenagers at the time, Anuar Zain and Ellina Razak did not expect Suasana Hari Raya to make a huge splash. It turned out to be an instant hit that remains evergreen to this day. Teenyboppers were a hit with older audiences, and cassette tapes meant it was easier for Malaysian students from abroad to de-stress with this song. With the singers becoming the iconic neat and cute faces of cheery respectable pop, their uniqueness at the time belied notions of being cookie-cutter.",youtubeLink:"https://www.youtube.com/watch?v=5UbK6CuXRjI",image:"images/page19_img2.png"},{id:12,title:"Bersama di Hari Raya",year:"1985",performer:"Cenderawasih",composer:"Syed Haron",lyricist:"Syed Haron",lyrics:`Hari raya hari yang mulia
+Hari raya hari yang bahgia
+Selamat hari raya
+Diucapkan bersama
+Bermaafan dengan setulus rasa
+
+Tahun ini ku akan kunjungi
+Rakan-rakan yang aku sayangi
+Di hari raya ini
+Kita bersua lagi
+Mengeratkan kemesraan di hati
+
+Betapa indahnya di hari raya
+Setelah setahun tidak bersama
+
+Berbagai jenis juadah
+Untuk menjamu selera
+Tangan dihulur bersama
+Mengucapkan sejahtera
+
+Selamat hari raya (2x)
+
+Betapa indahnya di hari raya
+Setelah setahun tidak bersama
+
+Berbagai jenis juadah
+Untuk menjamu selera
+Tangan dihulur bersama
+Mengucapkan sejahtera
+
+Selamat hari raya (2x)`,infoMalay:'Berbanding situasi hari ini yang kacau-bilau, Bersama Di Hari Raya dilancarkan pada waktu di mana iklim politik lebih tenang dan kehidupan tidak begitu merungsingkan. Kehadiran artis bukan Melayu popular yang menyanyikan lagu Bahasa Melayu seperti Kenny, Remy & Martin dan Cenderawasih kini menjadi perkara biasa di ruang udara radio dan televisyen. Waktu ini juga merupakan era modernisasi yang berkembang pesat dan ramai warga Malaysia menghadapi isu-isu bahari yang hadir bersama kehidupan bandar. Ini menimbulkan kewujudan lagu-lagu pesanan khidmat masyarakat dan artis-artis tidak melepaskan peluang ini. Antara contoh lagu pesanan khidmat masyarakat ialah Hari Raya Tetap Tiba oleh Sweet September yang mengandungi lirik "Jangan asyik berbelanja". Proses pemindahan dari kampung ke bandar Finas dan perbadanan-perbadanan lain mengeluarkan video pendek yang mendidik tentang topik-topik seperti melabur dalam Amanah Saham, tatacara kejiranan, dan penjimatan elektrik. Terdapat juga dokumentari yang berkongsi tentang warisan negara kita seperti wayang kulit dan wau.',infoEnglish:`Compared to the chaotic sentiments of today, Bersama Di Hara Raya was released in simpler and less politically volatile times. The presence of popular non-Malay singers who sang in Bahasa Melayu had blended into mainstream normalcy, seeing Kenny, Remy & Martin, Cenderawasih and others being given prime airtime on television and radio.This was also the era of rapid modernisation where many Malaysians were discovering the myriad of issues that came alongside the urban lifestyle. A space for PSA songs had emerged and artists didn't lag behind. One such example would be Sweet September's Hari Raya Tetap Tiba which contained the lyrics "Jangan asyik berbelanja" (Don't be a spendthrift). To ease the rural-to-urban transition, Finas and other agencies were dishing out dozens of short videos that touched upon subjects such as investing money in Amanah Saham, neighbourly attitudes, and practices of saving electricity. There were also short documentaries which highlighted Malayan heritage such as wayang kulit and the wau.`,youtubeLink:"https://www.youtube.com/watch?v=3xXqn4_SMl0",image:""},{id:13,title:"Esok Hari Raya",year:"1986",performer:"Dr Sam",composer:"(Dato') M. Nasir",lyricist:"S. Amin Shahab",lyrics:`Pagi-pagi lagi dah ribut
+Nak ke pasar berebut-rebut
+Lipat beras ketupat pulut
+Serta memasak cepat merungut
+
+Anak bulan belumlah nampak
+Esok raya atau tidak
+Lodeh rendang sudah dimasak
+Depanlah rumah masih berselerak
+
+Gembiranya bila mendengar berita
+Jika terlupa hendak berbuka puasa
+Esok hari raya (5x)
+
+Selamat hari raya (4x)
+
+Gembiranya bila mendengar berita
+Jika terlupa hendak berbuka puasa
+Esok hari raya (5x)
+
+Selamat hari raya (11x)
+Hari raya`,infoMalay:'Sama seperti banyak negara di luar sana, bangsa majoriti menguasai media apabila arena seni menjadi semakin rancak. Bermula pada zaman ini, subbudaya dan juga artis-artis yang berasal dari kumpulan minoriti diberikan tumpuan di platform media arus perdana. Ini merupakan detik yang penting untuk ramai warga Malaysia terpinggir yang sering digelar "kutu masyarakat" kerana membukitkan mereka juga anak Malaysia yang berhak mempersembahkan diri mereka di pentas seni. Lagu popular yang dicorakkan loghat negeri seperti "Poi Pokan" oleh Blues Gang, dan penonjolan artis-artis seperti Ally Noor & Mastura menunjukkan citarasa orang ramai semakin terbuka terhadap alunan muzik berlainan. Di samping itu, kumpulan-kumpulan bukan Melayu yang menyanyikan lagu Bahasa Melayu seperti Cenderawasih, Sweet September, dan Kenny, Remy & Martin mula membuat kemunculan di kaca televisyen. Malaysia bertuah dikurniakan populasi yang berwarna-warni dan harus diingatkan bahawa kita SEMUA anak Malaysia dan cinta kita terhadap kepelbagaian seni muzik bermula pada zaman yang gelombang udara dimeriahkan oleh tiga siaran TV. TV3 ditubuhkan dua tahun sebelum lagu ini dikeluarkan.',infoEnglish:`Similar to most countries, the main demography in Malaysia dominated the media when the arts gradually became more celebrated. It was during this era where minority faces and sub-cultures began to be highlighted on mainstream media platforms. For many Malaysians, this was an important moment of visibility as it signaled that the have-nots in the heartland, often called "kutu masyarakat", are anak Malaysia as well! Popular "loghat" (dialect) songs such as Blues Gang's Apo Nak Dikato and artists such as Ally Noor & Mastura began to gain prominence and expanded the public's palate in musical diversity. On top of that, famous non-Malay groups singing in Malay also started to make their appearance on national television. This includes Cenderawasih, Sweet September, and Kenny, Remy & Martin. In our beautiful, diverse thousands and millions, we are ALL anak Malaysia and it all began in this era of 3 TV channels. It's worth noting TV3 was established two years prior in 1984.`,youtubeLink:"https://www.youtube.com/watch?v=LTx7_phxoZ4",image:"images/page21_img2.png"},{id:14,title:"EON (Proton) Raya jingle",year:"1988",performer:"Jamal Abdillah & Raja Ema",lyrics:`Hari raya hari yang mulia
+Penuh bererti kepada kita
+Tua muda miskin dan kaya
+Menyambutnya dengan gembira
+
+Berhati-hati di jalanraya
+Semoga anda selamat tiba
+Kunjungi teman sanak saudara
+Bersama gembira di hari raya
+
+Salah dan silap kiranya ada
+Bermaafan sesama kita
+Ucapan selamat hari raya
+Dari EON untuk semua
+
+Ucapan Selamat hari raya
+Dari EON untuk semua..`,infoMalay:'Diberikan gelaran "Bapa Pemodenan", Perdana Menteri Malaysia keempat dan ketujuh Tun Dr. Mahathir Mohamad tidak pernah lelah mendesak penyebarluasan teknologi dan pembandaran ketika tempoh sulungnya sebagai pemimpin negara. Jelas melalui dasar-dasar beliau, obsesi Dr. Mahathir terhadap mesin dan kejuruteraan juga mempengaruhi resam budaya Malaysia. Dendang Raya EON (kini dikenali sebagai lagu raya Proton) ialah salah satu hasil daripada pengaruh tersebut yang berjaya menangkap hati rakyat. Terdapat juga lagu rakyat yang disulami sentimen ini seperti lagu Kampungku yang mempunyai lirik "ada jentera, ada kereta Proton Saga". Pada waktu tersebut, seluruh negara sememangnya dilanda ombak keterujaan. Kereta kebangsaan pertama, Proton Saga, dilancarkan dan kita juga melihat lebur raya semenanjung pertama yang selamanya mengubah maksud "balik kampung" untuk jutaan rakyat Malaysia. Setiap artis yang aktif sewaktu dengan pencapaian-pencapaian ini bercita-cita mengeluarkan lagu raya dan dendang iklan ini antara karya yang berjaya!',infoEnglish:`With 'Father of Modernisation' as one of his monikers, fourth and seventh Prime Minister of Malaysia Tun Dr Mahathir Mohamad was nothing short of an evangelist for technology and urbanisation during his first time in office. If it weren't evident enough through policies, his faith in machinery and tangible structures even manifested within the cultural fabric of Malaysia. EON's (now Proton) Raya Jingle was one of the results that managed to stick in people's hearts. There were even instances of folk songs being co-opted such as Kampungku which espoused the lyrics "ada jentera, ada kereta Proton Saga". For many, it was nigh impossible to not be swept up in all the excitement. The Saga, our first national car, was here and along with it there was also our first peninsular highway which forever revolutionised the "balik kampung" journey for millions of Malaysians. Also, almost every artist wants to put out a hit raya song, and this ad jingle did it!`,youtubeLink:"https://www.youtube.com/watch?v=SfieSerE2EE",image:"images/page22_img2.png"},{id:15,title:"Hari Mulia",year:"1989",performer:"Sheila Majid",composer:"S Atan",lyricist:"Johan Nawawi",lyrics:`Oh oh oh...
+Tidak sabar lagi ku menunggu
+Teman-teman nanti mengunjungi
+Di hari nan mulia
+Semasa suasana riang bahagia
+Tiada ternilainya
+Segala kini ku nikmati
+
+Beranika warna hari bergaya
+Teman ku semua tiba jua
+Indahnya aidilfitri
+Meraikan kembali mesra gembira
+Kini ku mensyukuri
+Dikurniai hari mulia
+
+Kepada Maha Esa
+Ku memohon doa
+Agar usia kita
+Dilanjutkan Ia
+
+Oh oh...
+
+Bila tiba lagi hari mulia mmm...
+Bertemu kembali kita semua
+Indahnya aidilfitri
+Meraikan kembali mesra gembira
+Kini ku mensyukuri
+Dikurniai hari mulia ooh...
+
+(Repeat "Kepada Maha Esa" onwards)`,infoMalay:'Apabila melihat daripada aspek pembinaan negara bangsa, zaman 1980-an merupakan waktu yang bersejarah kerana Mahathir mula memikul tanggungjawab sebagai Perdana Menteri selama 22 tahun pada waktu tersebut. Kini digelar Bapa Pemodenan, beliau melancarkan pelbagai dasar yang menjadikan Malaysia ekonomi kedua yang paling pesat berkembang di dunia, selepas negara China. Dorongan yang agresif terhadap bidang pembuatan dan elektronik menjadi semikonduktor dan mikrocip bahan eksport utama negara kita. Di pentas antarabangsa, Malaysia terkenal sebagai salah satu Negara Perindustrian Baru (NIC) dan hampir menyertai Four Tigers of Asia (Hong Kong, Singapura, Korea Selatan, dan Taiwan). Lagu Hari Mulia oleh Sheila Majid mencerminkan perubahan negara Malaysia. Susunan lagu yang berunsurkan jazz-pop dan juga gaya R&B merupakan sesuatu yang unik untuk lagu Raya dan susunan ini sangat sesuai dengan kelebihan-kelebihan vokal, gaya nyanyian, dan imej penyanyi tersebut. Wanita molek ini yang menonjolkan diri pada 1985 dengan lagunya "Pengemis Muda" kini mendabik dada menuju ke masa depannya yang lebih cerah.',infoEnglish:`On the nation-building side of history, the 80's was a momentous period for Malaysia as it was the beginning of Mahathir's 22-year tenure as Prime Minister. Remembered as the nation's Father of Modernisation, he enacted policies which charted Malaysia as the second fastest growing economy in the world, just behind China. The aggressive push towards manufacturing and electronics made semiconductors and microchips the overwhelming majority of Malaysia's exports. Internationally, Malaysia boasted itself as one of the Newly Industrialised Countries (NIC) and was ready to join the ranks of the Four Tigers of Asia (Hong Kong, Singapore, South Korea, and Taiwan). Sheila Majid's Hari Mulia paralleled the country's transformation. The arrangement in jazzy-pop and R&B style was groundbreaking for Raya music, and perfectly catered to suit her vocal strengths, singing style and image. The petite young woman who made her mark with "Pengemis Muda" in 1985 was stepping forward into her own glorious future, on her own terms.`,youtubeLink:"https://www.youtube.com/watch?v=F0qUCFKQ2nM",image:""},{id:16,title:"Bergema Takbir di Pagi Raya",year:"1993",performer:"4U2C",composer:"Man Senoi",lyricist:"Mama Rap (and Jeff Samad? tbc)",lyrics:`Chorus 1
+Bergema takbir di pagi hari raya
+Menyambut menyambut Syawal bulan mulia
+Uh! Bersyukur insan pada Yang Maha Esa
+Berhari raya kita semua
+
+Pohon maafan doa restu dari mu ayah ibu
+Di pagi hari raya ikhlas kasih anakmu
+
+(RAP)
+Tak dapat ku melupakan tak dapat ku mengenepikan
+Segala kenangan terindah sewaktu kita bersama dahulu
+Dikau dan aku daku dan kamu kita sebulu searah sejalan dituju
+Tak pernah ku terfikir nyanyikan semula lagu dan irama kita berdansa
+Melangkah bersama satu dua tiga kita ulangkan semula
+Hilang rasa resah kita gembira ketawa ria Ha Ha ha a ah
+
+Chorus 2
+Satu Syawal hari raya Aidilfitri yang mulia
+bergema takbir di pagi hari raya
+Satu Syawal hari raya Aidilfitri yang mulia
+menyambut Syawal bulan mulia
+
+(RAP)
+Oh yeah Kini sejarahkan berulang semula
+ada pahit manisnya ada kenangan cinta
+ada segala nostalgia pelbagai cerita
+Jaga lah dirimu walaupun di mana kau kan berada
+mana yang jauh kasi dekat dan mana yang dekat kasi rapat
+ikat kuat ketat
+erat melekat jangan mengumpat
+bawa bertaubat bayar zakat itu ibadat
+dengarkan ini nasihat yeah
+
+(SUNG)
+Di pagi raya ini terkenangkan kembali
+(terkenangkan kembali)
+Ampun maaf dipinta ku mohon kepadanya
+(keluarga ku tercinta)
+Mari lah bersama kunjung mengunjungi menjamu selera
+Sanak dan saudara riang bergembira miskin kaya turut sama
+
+(Chorus 1 x 2)
+
+(Chorus 2)`,infoMalay:"Hip hop dan rap menghadapi pelbagai cabaran untuk mendapat perhatian di ruangan arus perdana Malaysia. Oleh itu, kita mendengar banyak lagu rap yang menggunakan bunyi pop dalam komposisi mereka. Amat sukar untuk memecahkan monopoli muzik rock dan balada cintan yang menakluki jiwa rakyat Malaysia tetapi golongan pemuda di kawasan bandar lebih terbuka dan mereka merupakan peminat awal budaya rap. 4U2C menunjukkan budaya giat kerja atau hustle pada zaman 1990-an. Mereka bukan sahaja berjaya di ruangan perdana arus tetapi juga memenangi sebuah Anugerah Bintang Popular pada tahun 1993. Di samping itu, mereka juga mengadakan konsert Aidilfitri di Life Centre KL. Pada waktu tersebut, lokasi itu merupakan antara lokasi terbesar untuk persembahan muzik. Kumpulan rap tersebut juga menceburi bidang lakonan serta memulakan sitkom mereka sendiri. Ramai warga Malaysia pada hari ini semestinya mengenali bekas ahli mereka iaitu AC Mizal yang kini terkenal sebagai pelakon dan pengacara televisyen yang hebat.",infoEnglish:"Both hip hop and rap did not get an easy start in the Malaysian mainstream limelight. This is why a lot of rap songs had adopted pop-ish sounds into their composition. It was difficult to break the mindshare monopoly occupied by rock music and love ballads but the urban-raised youths were more receptive to rap and became the early adopters of Malaysian rap culture. 4U2C truly showcased the hustle culture of the 90's. Not only had they managed to make a name in mainstream spaces, they also went on to win an Anugerah Bintang Popular award in 1993. On top of that, they even organised an Aidilfitri concert at Life Centre KL, then one of the biggest spots for live music performance. The group also ventured into acting and established their own sitcom. Many Malaysians today will easily recognise former member AC Mizal as a household name in the film industry as well as a prominent TV host.",youtubeLink:"https://www.youtube.com/watch?v=EqCoHsuME7Q",image:""},{id:17,title:"Sentuhan Hari Raya",year:"1994",performer:"Amy Search",lyrics:`Tarik nafas yang panjang
+Tahan sebentar
+Dan lepaskanlah perlahan
+Hingga rasa lega
+Ku simpankan separuh di dalam dada
+
+Membantu ku luahkan ucapan benar
+Selamat hari raya
+Pada kau kekasih yang kibarkan
+Kalimah kasih sayangnya
+
+Bersertakan salam kesejahteraan
+Hakikat yang sebenar
+Pada tiap satu insan
+Ada satu jiwa
+
+Chorus
+Bukalah pintu rumahmu
+Dengan jiwa dan raga
+Sebarkanlah rahmat Tuhanmu
+Dan anugerahNya
+Pada semua umat di hari raya
+
+Ingin aku luahkan ucapan benar
+Selamat hari raya
+Pada kau kekasih yang kibarkan
+Kalimah kasih sayangnya
+
+(Chorus x 2)
+
+Selamat hari raya`,infoMalay:'Sinaran alaf baharu kini kelihatan di ufuk dan kehangatan ini mendorong para pemimpin Malaysia mendesak perubahan terhadap sebuah negara yang lebih moden dan "dihormati". Sedemikian itu, mereka bertekad untuk membanteras golongan yang tidak sehaluan. Kerajaan membuat keputusan untuk melarang muzik rock dimainkan di segala saluran arus perdana dan pada waktu yang sama, melarang pemberian permit konsert. Untuk "halalkan" semula rock, artist-artis popular seperti Amy Search terpaksa mengorbankan rambut panjang mereka yang dipotong oleh Menteri Penerangan. Upacara ini disiarkan di saluran-saluran televisyen rasmi pada 1 Nov 1992. Sama ada mereka pernah menyanyi tentang keindahan Raya atau keberkatan Allah, artis-artis ini tetap dianggap bermasalah. Sebenarnya, kewujudan lagu Raya berunsurkan rock atau rap bukan satu perkara baharu. Setiap artis meraikan semangat perayaan melalui muzik yang terdekat dengan hati mereka.',infoEnglish:`Leading up to the start of a new millennium, Malaysia's leaders pushed for the agenda of a more modern and "respectable" nation, choosing to wipe out of sight and hearing those who did not conform. The government had placed a TV/radio ban on music by long-haired rockers and also withheld heavy-metal concert permits. To lift the ban, reputable rockers like Amy Search had their lush rocker manes cut short by the Minister of Information in a ceremony that was televised on national TV on 1 Nov 1992. It did not matter if they sang about the beauty of Raya or the blessings of the Almighty. The powers that be decided that it was time to usher in the new era of "enlightenment" and rockers were deemed immoral relics from a more ignorant time. It is worth noting that Raya songs have been done in many genres including rock and rap! Artists celebrate the occasion in the genre of music closest to their heart.`,youtubeLink:"https://www.youtube.com/watch?v=SFupJXtyQVA",image:"images/page25_img2.png"},{id:18,title:"Puasa dan Raya",year:"1997",performer:"Senario",lyrics:`Hari raya semua bagai nak gila
+Bila puasa buat-buatlah lupa
+Berpakaian semua harus sepadan
+Tapi puasa tak cukup sebulan
+
+Berpuasa rukun Islam ketiga
+Wajib kita untuk menunaikannya
+Tidak kira usia tua dan muda
+Miskin dan kaya sama serupa
+
+Verse 1
+Anak-anak gembira bila Syawal menjelma
+Lebih hebat ibu dan bapanya
+Berhabis tak berkira asal nampak bergaya
+Walau hutangnya panjang berjela
+
+Verse 2
+Habis raya semua mula bekerja
+Poket kosong baru ingat nak puasa
+Kawan semua buat tak tahu saja
+Nak pinjam duit teringat hutang lama
+
+Verse 3
+Ini kisah jadi tauladan
+Biar kita buat sempadan
+Banyak-banyakkan amalan
+Duit habis dalam simpanan
+Cakap banyak nanti ku tangan
+Tak baik, kesian
+
+(Repeat Verses 1 & 2)
+
+Verse 4
+Kita harus kuatkan iman
+Hidup ini banyak dugaan
+Memang tidak dinafikan
+Dari itu kita elakkan
+Di bulan Ramadan memang tak tahan
+Jangan ikut perangai syaitan
+
+(Repeat Verses 3 & 4)`,infoMalay:'Sinaran alaf baharu kini kelihatan di ufuk dan kehangatan ini mendorong para pemimpin mendesak perubahan terhadap sebuah negara yang lebih moden dan "dihormati". Sedemikian itu, mereka bertekad untuk membanteras golongan yang tidak sehaluan. Kerajaan membuat keputusan untuk melarang muzik rock dimainkan di segala saluran arus perdana dan pada waktu yang sama, melarang pemberian permit konsert. Untuk "halalkan" semula rock, artist-artis popular seperti Amy Search terpaksa mengorbankan rambut panjang mereka yang dipotong oleh Menteri Penerangan. Upacara ini disiarkan di saluran-saluran televisyen rasmi pada 1 Nov 1992. Sama ada mereka pernah menyanyi tentang keindahan Raya atau keberkatan Allah, artis-artis ini tetap dianggap bermasalah. Sebenarnya, kewujudan lagu Raya berunsurkan rock atau rap bukan satu perkara baharu. Setiap artis meraikan semangat perayaan melalui muzik yang terdekat dengan hati mereka.',infoEnglish:`The mid-1990's was a boom era that saw money flowing into the country and we were also on the precipice of the dotcom boom. The government poised itself for the onset of the digital era. We would soon see the establishment of the Multimedia Super Corridor (MSC), Cyberjaya, and other headways to get ahead of the curve. Malaysia was on the upswing to make its mark on the world in good ways! Meanwhile, artists and the rakyat found creative ways to criticise mainstream thought and greed. People did not shy away from calling out the hypocrisy of politicians and they were also keen to emphasise the importance of not spending beyond your means during this time of ostentatiousness. Lyrics in Raya songs began focusing less on "balik kampung" as more families celebrated Raya in new urban spaces. This reflected the aggressive housing development in Klang Valley and today we can still see the remnants that have become run-down neighborhoods.`,youtubeLink:"https://www.youtube.com/watch?v=RXj_Zlw87dM",image:"images/page26_img2.png"},{id:19,title:"Aidilfitri di Alaf Baru",year:"1999",performer:"Noraniza Idris, Siti Nurhaliza, various",composer:"Khalil Shariff",lyricist:"Asmah Ismail",lyrics:`Terdengar syahdu
+gema suara takbir
+Tandanya tiba Syawal mulia
+Kita beraya bersama berganding bahu
+Sambut lebaran di alaf baru
+Di Aidilfitri seiring kita berpadu
+
+Chorus 1
+Selamat Hari Raya
+Diucapkan kepada semua
+Marilah kita meraikan
+Lebaran dengan keazaman
+Melangkah menuju wawasan
+
+Chorus 2
+Bermaafan sesama kita
+Lupakan semua sengketa
+Jalinkan rasa muhibah
+Kan berseri Hari Raya
+Aidilfitri tambah ceria
+
+Menyambut raya biarlah berpada-pada
+Jangan dilupa, yang tak terdaya
+Pada mereka bantulah seikhlas rela
+Agar mereka turut merasa
+Bersama kita gembira di Hari Raya
+
+(Chorus 1)
+
+(Chorus 2)
+
+Kan berseri Hari Raya
+Aidilfitri tambah ceria`,infoMalay:'Seluruh negara sedang dilanda ombak globalisasi dan Zaman Digital yang giat didorong oleh Mahathir! Kita melihat pembinaan Putrajaya, Cyberjaya, Koridor Raya Multimedia (MSC), Menara Berkembar Petronas, dan Lapangan Terbang Antarabangsa Kuala Lumpur (KLIA) dalam kadar yang begitu pesat. Untuk menggalakkan penggunaan dan meredakan kegusaran terhadap teknologi baharu, kerajaan melancarkan Kempen Cinta IT. Siti Nurhaliza dijadikan salah seorang duta kempen tersebut dan menyanyikan lagu "Cinta IT" di televisyen dan radio. Pada waktu yang sama, kerenah politik tetap berterusan. Naib Perdana Menteri pada waktu tersebut, Anwar Ibrahim, didapati bersalah atas tuduhan rasuah dan dijatuhkan hukuman penjara selama 6 tahun. Keadaan pada waktu ini sememangnya terasa huru-hara. Mungkin ini menjadi punca kebangkitan semula lagu-lagu yang berirama asli? Salah satu karya tersebut diterajui oleh Noraniza Idris dan Siti Nurhaliza Terdapat perbalahan mereka berdua yang berakhir dengan lagu kolaborasi ini. Artis-artis terkenal bernyanyi tentang keterujaan menempuh alaf baharu yang penuh tanda soal.',infoEnglish:`Every Malaysian was being driven by Mahathir's momentum of pushing the nation full speed towards the Digital Age and globalization! In a breakneck pace, we saw the construction of Putrajaya, Cyberjaya, the Multimedia Super Corridor (MSC), the Petronas Twin Towers, and the Kuala Lumpur International Airport (KLIA). The government went as far as launching a "Kempen Cinta IT" to encourage public engagement and simultaneously remedying fears of new technologies. Siti Nurhaliza was co-opted for the campaign, singing "Cinta IT" on TV and radio. Underneath, politicking proceeded as usual. DPM Anwar Ibrahim was found guilty of corruption and sentenced to 6 years in jail. Truly these few years were full of upheaval. Was this why, music-wise, there was an "irama asli" renaissance? One such effort was led by Noraniza Idris and Siti Nurhaliza. There was a feud between them that culminated in this collaborative track. Popular artists sing of anticipation at entering a new millennium which not everyone understood yet.`,youtubeLink:"https://www.youtube.com/watch?v=dl9E6_O9t7I",image:""},{id:20,title:"Di Pagi Raya",year:"2003",performer:"Akademi Fantasia 1 contestants",lyrics:`Sebulan sudah kita berpuasa
+Kini tibalah berhari raya
+Di pagi raya berbaju baru
+Menghulur salam pinta disambut
+
+Biar di desa juga di kota
+Bersama-sama meraikannya
+Walau jauh di mata
+Jua raikannya
+
+Senyum diberi kepada tetamu
+Segala juadah tersedia sudah
+Bersama taulan kita nikmati
+Bersyukur kita kepada Illahi
+
+Chorus 1
+Bermaaf-maaf sesama kita
+Tua dan muda miskin dan kaya
+Lupakanlah segala
+
+Di hari mulia
+
+Chorus 2
+Bermaaf-maaf
+Di pagi raya
+Sungguh meriah
+Bersama kita raikannya
+(Repeat)
+
+Di pagi raya berbaju baru
+Menghulur salam pinta disambut
+Senyum diberi kepada tetamu
+Segala juadah tersedia sudah
+
+(Chorus 1)
+(Chorus 2 Repeat / fade)`,infoMalay:'Alaf baharu kini tiba! Kebanyakan laman web yang "pada waktu itu adalah idea bernas" kini telah dikuburkan setelah gelembung dotcom pecah. Walaubagaimanapun, komputer menjadi peranti yang kekal berguna. Dalam persekitaran pekerjaan moden, ketersediaan internet dan komputer persendirian menjadi satu kewajipan. Di rumah pula, orang ramai menerokai alam digital untuk menikmati permainan video dan menghabiskan masa membaca tentang pelbagai maklumat. Industri muzik bertindak cepat untuk mengambil kesempatan ini dan melancarkan lagu-lagu Raya moden pada tempoh awal sekitar tahun 2000. Malangnya, hanya beberapa judul masih diingat pada hari ini dan proses pendigitalan lagu-lagu klasik pula memudahkan orang ramai untuk kekal mendengar lagu-lagu 1970-an dan 1980-an. Di Pagi Raya merupakan salah satu lagu riang ria yang diterbitkan melalui rancangan TV realiti tempatan Akademi Fantasia yang berjaya mencetuskan demam baharu dalam kalangan rakyat Malaysia.',infoEnglish:`The New Millennium was here! A lot of websites that "seemed to be good ideas at the time" had met their demise as the dotcom bubble burst. However, computers were here to stay. The Internet and personal computers were becoming essential elements in the modern workplace environment. At home, people were discovering computer games and trudging through troves of digital information both mainstream and niche. Of course, the music industry would not let itself lag behind and thus many urban Raya songs were released during the early 2000s. Unfortunately, very few are remembered today and the digitalisation of old favourites made it even easier for people to remain with classics from the 1970's and 1980's. Di Pagi Raya was one of the few fun songs from Malaysia's iconic homegrown reality TV show Akademi Fantasia— an offering from its multicultural pioneer batch, which ignited its own fever comparable to the heyday of rock "kapak".`,youtubeLink:"https://www.youtube.com/watch?v=hRDJZmxdS88",image:"images/page28_img2.png"},{id:21,title:"Pada Hening Pagi Raya",year:"2006",performer:"Liza Hanim",lyrics:`Yaa yaa yaa yaa
+Yaa yaa yaa yaa
+
+Verse 1
+Assalamualaikum
+Ucapan mulia
+Kepada seluruh umat yang beribadah
+Disusun jari sepuluh
+Ampun dipinta
+Memohon restu darimu ayah dan bonda
+
+Verse 2
+Di hari raya
+Takbir bergema
+Menusuk segenap kalbuku
+Di hari raya
+Air mataku
+Turut menitis
+Menginsafi dosa-dosa
+Yang dulu ku sanjung
+
+Verse 3
+Alhamdulillah
+Aku bersyukur
+Berkat rahmatnya
+Ku langkah hidup baru
+Dengan Bismillah
+Ku iring doa
+Pada syawal mulia
+Pada hening pagi raya
+
+(Repeat Verses 2 & 3)
+
+Pada hening pagi raya (Repeat)`,infoMalay:'Ketika zaman 2000-an, Malaysia pada era pra-telefon pintar melalui fasa yang dicorakkan perkembangan ekonomi pesat, kemajuan teknologi, dan pelbagai helah politik. Pada tahun 2006, Malaysia mencatatkan empat tahun berturut-turut di mana penggunaan swasta meningkat lebih cepat daripada keluaran dalam negara (GDP). Boleh dikatakan semua orang mempunyai telefon bimbit lasak Nokia yang melahirkan panggilan "Nokia tiga tiga sekupan (3310)" dan sesiapa sahaja yang mempunyai sambungan Internet di rumah pula sudah terbiasa dengan bunyi model dail. Menteri Pertahanan ketika itu, Najib Razak, dikaitkan dengan pembunuhan model dari Mongolia, Altantuya Sharilbuu. Dalam keadaan yang huru-hara ini, muzik raya pula menghadapi kesukaran menarik hati rakyat. Lagu-lagu klasik masih diputarkan di radio dan rancangan televisyen lebih gemar menggunakan lagu-lagu lama untuk episod Raya. Walaubagaimanapun, terdapat beberapa penyanyi seperti Liza Hanim yang menjadi terkenal dengan koleksi lagu Rayanya yang dimainkan di kompleks membeli-belah selama bertahun-tahun. Penyanyi tersebut juga melakonkan watak Saloma dalam pementasan P. Ramlee the Musical.',infoEnglish:`Pre-smartphone era Malaysia during the 2000's was a dizzying time of unprecedented economic growth, technological advancement, and mazes of political intrigue. 2006 was the fourth year in a row that private consumption in Malaysia rose faster than the GDP. Everyone had a Nokia brick phone, popularising the term "Nokia tiga tiga sekupan (3310)" and anyone who had Internet at home were getting familiar with the sound of the dial-up screeching modem. Then-future and now-former Prime Minister Najib Razak was tied to the murder of Mongolian model, Altantuya Shariibuu. Amidst all the going-ons, contemporary Raya music was struggling to stick in people's hearts. The classics were still being played on radios and television shows preferred to use oldies for their Raya episodes. Still, singers like Liza Hanim became famous for her wide "lagu Raya"repertoire, with her songs played in malls year after year. She would also go on to portray Saloma onstage in P Ramlee the Musical.`,youtubeLink:"https://www.youtube.com/watch?v=Pu9YD2-Ek8c",image:""},{id:22,title:"Mensyukuri Syawal",year:"2009",performer:"Meet Uncle Hussain & L Danielle",composer:"Taja & Gfat",lyricist:"Tun Teja, Boy LD, Arsh LD",lyrics:`Na.. nananana
+Allah Allahu Akbar
+Segala puji hanya bagi-Mu
+Alhamdulillah kalimah syukur
+Ke atas nikmat-Nya aku berhari raya
+
+Salah silap ampun dan maaf
+Sesal aku keinsafan
+Ku tidak sempurna
+
+Chorus
+Fitrah disusuli takbir
+Menyambut Syawal hari mulia
+Syawal menutup Ramadhan
+Laungan takbir terus bergema
+
+Pulanglah anak rantau
+Kerana aku pernah terleka
+Pernah terlupa Ayah dan Bonda
+Allah, ampunkan dosa mereka di sana
+
+Salah silap ampun dan maaf
+Sesal aku keinsafan
+Ku tidak sempurna
+(Chorus x 2)
+
+(Berikanlah aku Petunjuk
+Berikanlah aku Hidayah-Mu
+Mudahkanlah hidupku
+Lapangkanlah dadaku)
+
+Allah Allahu Akbar
+Segala puji hanya bagi-Mu
+Alhamdulillah kalimah Syukur
+Allahu Akbar
+Segala puji hanya bagi-Mu
+Alhamdulillah kalimah Syukur
+
+(Berikanlah aku Petunjuk Hidayah-Mu
+Berikanlah aku Hidayah-Mu)`,infoMalay:"Kemunculan Meet Uncle Hussain dan L Danielle dalam pandangan arus perdana merupakan cerminan jitu tentang keadaan Malaysia ketika waktu itu. Sama seperti kejayaan Meet Uncle Hussein menggoncang industri hiburan dari asal-usul indie mereka, negara Malaysia juga melalui pelbagai perkembangan yang mengejutkan. Pada waktu itu, negara baru sahaja melalui salah satu kemerosotan eksport paling teruk dalam sejarah ekonomi kita dan sejurus itu bidang pembuatan dan eksport mula menunjukkan tanda-tanda pemulihan. Terdapat juga perhimpunan untuk menentang Akta Keselamatan Dalam Negeri (ISA) di Kuala Lumpur. Pasukan Simpanan Persekutuan (FRU) dikerahkan dan rakyat yang menyertai perhimpunan ditembak meriam air dan dilempar gas pemedih mata. Terdapat juga perkembangan positif, antaranya ialah pengisytiharaan Hari Malaysia sebagai cuti kebangsaan dan ini menjadi bukti bahawa Malaysia bukan sahaja merangkumi negeri-negeri Tanah Melayu. Kejayaan Meet Uncle Hussain dan kumpulan indie lain mendorong industri muzik untuk menerajui kerjasama antara pemuzik indie dan jenama terkenal untuk memberi sokongan kepada persekitaran indie.",infoEnglish:"Meet Uncle Hussain and L Danielle's emergence into the mainstream consciousness represented an accurate analogy of Malaysia's own zeitgeist at the time. As how Meet Uncle Hussein grew from their indie roots into a primetime darling for radios and television channels, a lot of shocking developments were also happening throughout the country. We had just begun to emerge from one of the worst export slumps in our economic history as manufacturing and exports started growing again. There was a rally against the Internal Security Act (ISA) in Kuala Lumpur which saw riot police deploy water cannons and tear gas towards demonstrators. On the brighter side, Malaysia Day had been declared the national holiday which made clear that the nation was more than just Malaya. The music industry was embracing the incorporation of indie music, with its DIY ethos, into a collaborative commercial effort with notable brands to support homegrown indie musicians.",youtubeLink:"https://www.youtube.com/watch?v=CAeieviMjwc",image:""},{id:23,title:"Raya Oh Yeah",year:"2012",performer:"Yuna",composer:"Yuna Zarai",lyricist:"Yuna Zarai",lyrics:`Berlalu sudah bulan puasa
+Masa untuk bersuka-ria
+Oh yeah
+Raikan hari raya
+
+Kawan-kawan semuanya happy
+Kekasih pulang dari oversea
+Oh yeah
+Samalah kita nanti
+
+Mungkin dahulu terasa sepi
+Hanya keluarga yang menemani
+Tapi sekarang tidak lagi
+
+Chorus
+Raya kali ini mungkin berbeza
+Kerna ku ada dia
+Nyalakan pelita cinta di hari raya
+Hati seperti bunga api bersama dia
+Oh indahnya
+Ku jatuh cinta di hari raya Oh
+
+Cinta di hari raya (2x)
+
+Semangat kita nak bangun pagi
+Pakai cantik-cantik hari ini
+Oh yeah
+Nak jumpa somebody
+Rumahku dihiasi indah
+Senyum sehingga hujung telinga
+Oh yeah
+Tunggu kekasih hati
+
+Syawal kali ini ku tak sabar
+Hati terasa berdebar-debar
+Oh yeah
+Diri sudah berpunya
+
+(Repeat Chorus)
+
+Cinta di hari raya (x6)`,infoMalay:'Bermula dengan sebuah lagu popular dari Myspace pada tahun 2008 dan selepas itu mengeluarkan lagu yang dihasilkan oleh Pharrell Williams pada tahun 2012, Yuna sememangnya seorang figura yang membawa semangat "Malaysia Boleh". Diterbitkan oleh AG Coco, Raya Oh Yeah menonjolkan perspektif yang menyegarkan dengan mengetengahkan perasaan menyambut Raya bersama buah hati. Suara Yuna yang manis dan penampilan chic bertudung sesuai dengan unsur ketulenan isi hati dalam lagu ini. Bila anda bertanya mana-mana rakyat Malaysia apa peristiwa yang masih diingat dari tahun 2012, semestinya mereka akan bercerita tentang perhimpunan Bersih 3.0. Di perhimpunan tersebut, puluhan ribu penunjuk perasaan berbaju kuning berarak di Kuala Lumpur untuk menuntut proses pilihan raya yang telus dan bersih. Pada tahun itu juga, Mahkamah Tinggi membebaskan Anwar Ibrahim daripada tuduhan liwat. Salah satu detik cemerlang dalam sejarah kita yang juga berlaku pada tahun tersebut ialah kemenangan pingat gangsa Olimpik oleh Pandelela Rinong yang menjadi wanita Malaysia pertama memenangi pingat olimpik.',infoEnglish:"Beginning with a MySpace hit in 2008 and then going on to having a Pharrell Williams-produced track in 2012, Yuna is a strong personification of the Malaysian dream. Produced by AG Coco, Raya Oh Yeah presented a refreshing perspective of enjoying the festive moment with a lover. It put forward a feeling of authenticity that paired well with Yuna's sweet voice and hijabista chic presentation. Ask any Malaysian about what they remember from 2012 and it would be nigh impossible for anyone to forget the Bersih 3.0 rally. Kuala Lumpur was flooded with tens of thousands of yellow-clad demonstrators championing clean elections. It was also the year future Prime Minister Anwar Ibrahim was acquitted of sodomy charges by the High Court. Despite the tumultuous events, there were also moments of celebration such as when Pandelela Rinong won a bronze medal in the 10 metre diving platform, becoming the first Malaysian woman to win an Olympic medal.",youtubeLink:"https://www.youtube.com/watch?v=SGxfZJK1_Uo",image:""},{id:24,type:"dual-video",title:"Hari Raya Ini Dalam Sejarah",year:"2013",performer:"monoloQue",composer:"IoQue Ridzwan",lyricist:"IoQue Ridzwan",lyrics:`Lupakan sementara
+Segala duka nestapa
+Hari ini hari raya
+Hari bahagia lagi mulia
+
+Kota konkrit lengang sunyi
+Terkedu sayu di dalam hati
+Tatkala mendengar takbir berbunyi
+
+Siang malam bertungkus lumus
+Mencari rezeki nasi sebungkus
+Apa yang terdaya cukup bermakna
+Hari ini teristimewa
+
+Terangkan semula
+Hati yang gelap gelita
+Hari ini hari raya
+Hari bahagia lagi mulia
+
+Hentikan porak peranda
+Nikmati suasana
+Gelak ketawa untuk seketika
+
+Yang terputus elok disambung
+Yang retak elok dijahiti
+Tak kira fahaman mana yang kau sanjung
+Kanan dan kiri dihormati
+Pangkat dan darjat tiada erti
+Bersama-sama
+
+Rehatkan sementara
+Sengketa di antara kita
+Hari ini hari raya
+Hari bahagia lagi mulia
+
+Bulan lain berlumba-lumba
+Kejar mengejar dunia
+Tiba sudah bulan bermakna
+Semuanya
+Cukup sempurna
+Yang termampu
+Sudah cukup sempurna
+Yang termampu
+Sudah cukup sempurna
+
+(Sempurnakan tindak balas kimia antara kita
+Hari ini hari raya
+Hari bahagia lagi mulia)
+Terangkan semula
+Hati yang gelap gelita
+Hari ini hari raya
+Hari bahagia lagi mulia
+Hari ini hari raya
+Hari yang teramat istimewa
+Istimewa 2x
+Hari ini hari raya`,infoMalay:"Sedekad kini telah berlalu dan keterujaan alaf baharu semakin pudar seiring dengan semangat Era Digital yang meninggalkan alam impian dan lambat laun terpaksa berpijak di bumi nyata. Ramai menyedari bahawu mereka terpaksa bekerja lebih keras tetapi tidak diberikan penghargaan yang setimpal. Tidak dapat dinafikan bahawa lebih ramai warganegara Malaysia meningkatkan kualiti kehidupan mereka. Hal ini jelas apabila melihat populasi kawasan bandar yang lebih cakna terhadap penggunaan komputer dan penguasaan Bahasa Inggeris, dan ini memudahkan usaha mereka untuk berjaya pada zaman ini. Walaubagaimanapun, terdapat ramai juga yang dipinggirkan. Kehidupan dahulu jauh lebih ringkas dan dipisahkan daripada keresahan dunia moden yang sentiasa dilanda ombak maklumat bertubi-tubi dan proses pembelajaran teknologi baharu yang tidak pernah berhenti. Oleh hal yang demikian, lagu-lagu seperti Hari Raya ini Dalam Sejarah menemui ruang dalam hati rakyat. Alunan keroncong menimbulkan nostalgia dalam hati pendengar tetapi pada waktu yang sama, penyanyi monoLoque menimbulkan persoalan tentang perubahan keadaan ekonomi dan keengganan kita untuk bersuara.",infoEnglish:'A decade passes and the excitement of the new millennium gradually dies as the promise of the "Digital Age of Possibilities" loses its luster. There was a realisation that hard work was demanded more and yet it was less rewarded. Undoubtedly, more Malaysians managed to acquire their slice of the prosperous pie. The urban population that capitalised on their computer literacy and command of English were in prime position to reap the rewards of a digital world without borders. However, many were also burnt out. People yearned for simpler times when they were spared from the flood of information and steep learning curves that engendered the digital age. Therein lies the appeal of songs such as Hari Raya Ini Dalam Sejarah. The sweet, seemingly nostalgic keronchong rhythm harkened to better days but simultaneously, monoloQue seems to ponder if things were really better or have the kayangan always enjoyed such advantages and consequently, should we continue to keep calm and remain subservient?',youtubeLink:"https://www.youtube.com/watch?v=h_RbGGHYaUg",youtubeLink2:"https://www.youtube.com/watch?v=yotdO7Ghyog",youtubeLabel1:"Modern",youtubeLabel2:"Keroncong",image:"images/page32_img2.png"},{id:25,title:"Raya Ra Re",year:"2016",performer:"Layar (Khir Rahman, Shamsul Cairel, Fadzly Radzman)",composer:"Fadzly Razman",lyricist:"Khir Rahman",lyrics:`Saatku dengarkan takbir
+Jiwaku bagai berlari
+KuSyukur pada Illahi
+Syukur atas nafas ini
+Nikmat yang masih diberi
+
+Teringatku pesan Ummi
+Katanya berulang kali
+Hanyalah sabar sejati
+Hanya kasih yang tertinggi
+Azimat berpegang janji
+
+Apakah harus ku abaikan
+Sillaturrahim yang kian jauh
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu keriuhanmu
+
+Betapa alam turut meraikannya
+Kemenangan semua
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu kesyahduanmu
+
+Re ra ra re ra re ra re ra re
+Ra ra re re ra re ra re ra re
+(Repeat)
+
+Tiada mungkin ku terleka
+Sillaturrahim yang kian jauh
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu keriuhanmu
+
+Betapa alam turut meraikannya
+Kemenangan semua
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu keriuhanmu
+
+Sungguh indahnya saling maaf bermaafan
+Hilang segala dosa
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu kesyahduanmu
+
+Betapa alam turut meraikannya
+Kemenangan semua
+
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu keriuhanmu
+Ke halaman ke halaman asal ku pulang
+Hari raya, rindu kesyahduanmu
+
+Re ra re re ra re ra re ra re
+Ra ra re re ra re ra re ra re`,infoMalay:"Tahun 2010-an menyaksikan generasi Malaysia — mereka yang lahir pada awal 1960-an — mencapai umur persaraan; ada yang memilih untuk berehat dan ada yang mengukir identiti dan peluang baharu. Lirik yang ditulis oleh Khir Rahman untuk lagu Raya Ra Re penuh dengan perasaan kerinduan kepada kampung halaman dan waktu silam yang lebih bahagia. Perasaan sebegitu sememangnya dirasai oleh rakyat Malaysia ketika zaman pertengahan 2010-an yang kucar-kacir. Pada tahun 2014, kita dilanda dua tragedi besar dalam sektor penerbangan. Penerbangan MH370 hilang tanpa kesan dan masih gagal ditemui pada hari ini menyebabkan orang tersayang kepada semua penumpang dan anak kapal masih mencari jawapan kepada misteri ini. Beberapa bulan kemudian, penerbangan MH17 pula ditembak jatuh semasa melintasi kawasan timur Ukraine. Secara keseluruhannya, 537 kematian (yang disahkan dan juga disyaki) dicatatkan daripada kedua-dua tragedi ini. Pada tahun yang sama lagu ini dilancarkan, Bersih sudah hampir 10 tahun ditubuhkan tetapi mereka belum berputus asa. Perhimpunan Bersih 5.0 berlangsung pada tahun 2016 dan lebih daripada 250,000 penunjuk perasaan memenuhi Kuala Lumpur, Kuching, dan Kota Kinabalu.",infoEnglish:"The 2010s saw the Malaysia generation — those born in the early 1960s — reaching retirement age, some to rest and others to carve out new identities and opportunities. Khir Rahman's timely lyrics for Raya Ra Re instilled a sense of jovial yearning for one's hometown and also simpler times. It was a sentiment that resonated with Malaysians as the mid-2010's were extremely turbulent. In 2014 alone, the nation was hit with a double blow of tragedies in the aviation sector. Flight MH370 had disappeared and to this very day, the family members of everyone on board that flight still search for closure. Several months later, flight MH17 was shot down above eastern Ukraine. The two tragedies recorded 537 fatalities, both confirmed and presumed. By the time this song was released, Bersih had already been established for more than a decade but their work was far from over. 2016 was the year of Bersih 5.0 which saw an estimate of more than 250,000 demonstrators on the streets of Kuala Lumpur, Kuching, and Kota Kinabalu.",youtubeLink:"https://www.youtube.com/watch?v=T2WS67Eg6RA",image:""},{id:26,title:"Rindok Rindok Raya",year:"2017",performer:"Geng Rindok Raya",composer:"Abang Alim aka Abdul Halim Mostapha",lyricist:"Abang Alim aka Abdul Halim Mostapha",extra:"Loghat Sarawak",lyrics:`Vers 1:
+Ari Raya Ari Raya yang Mulia
+Ari Raya Ari Kita Suka Suka
+Bulan Posa Kita Aus Kita Lapar
+Yang Pentingnya Iboh Kita Molah Dosa
+
+Vers 2:
+Ari Raya Ari Raya Nang Meriah
+Lampo Cabik Api Pelita Bekelep
+Kampong Ulu Kampong ilir terang menerang
+Main Bedil Ledam Ledum Nyerin Bunyinya
+
+Chours:
+Mun Kitak Urang Serawak
+Iboh Lupak Ngidang Kek Lapis
+Serikei Sibo Seluroh Serawak,
+Nang Adatnya
+
+Iboh Kita Supan Supan
+Sila Sila Kitak Semua
+Melayu Cina Dayak Melano
+Bergembira
+
+Bridge 1:
+Sama Sama, Suka Suka
+Rindok Ati, "Rindok Ati"
+Meramikan Ari Raya Satu Malaysia
+
+Satu Malaysia.. Ari Raya.. Suka Suka..
+Heyyyhaa.. Ooohaaa.. Heyyyhaa..
+
+Dialog:
+Ejam: Asalammualaikum, Ooo Nyoo..
+Angah: Oii.. Walaikumsalam
+Ejam: Bejarah Juh
+Angah: Nak Po Pakey Kito Tuk Jalan
+Ejam: Pakey Keto Aku Lah
+
+Bridge 2:
+Pom Pom Pom Bunyi Moto Ka
+Nunggah Kawan Jalan Sama Sama
+Jum Kita Ngagak Sia
+
+Vers 3:
+Ari Raya Ari Raya yang Mulia
+Ari Raya Ari Kita Suka Suka
+Bulan Posa Kita Aus Kita Lapar
+Yang Pentingnya Iboh Kita Molah Dosa
+
+Vers 4:
+Ado Mbalam Abg Ejam di Kampong Gitak
+Suka Suka Ari Raya Di Rumahnya
+Iboh Malu Iboh Supan Kitak Semua
+Juh Bejarah Rami Rami Nyambut Raya
+
+*Ulang Chorus & Bridge 1
+*Ending`,infoMalay:"Pelancaran lagu Rindok Rindok Raya merupakan satu lagi detik penting dalam sejarah Malaysia di mana subkumpulan budaya tanah air diberikan peluang untuk menonjolkan diri. Perlu diingatkan bahawa rakyat beragama Islam mahupun berkaum Melayu tidak semestinya berunsur homogen. Di situ timbulnya kepentingan memberikan platform kepada subbudaya di negara ini yang jarang sekali dipedulikan. Kita dapat lihat masih terdapat warganegara Malaysia yang terkejut apabila mempelajari tentang kepelbagaian sebenar yang wujud dalam kalangan rakan-rakan senegara. Sejak penubuhannya, Malaysia bukan sahaja terdiri daripada warganegara Melayu, Cina, dan India. Perlu ditekankan juga bahawa kepelbagaian budaya merangkumi Semenanjung Malaysia dan juga Timur atau Borneo Malaysia. Sungguh rugi jika kita mengehadkan diri daripada mempelajari tentang kepelbagaian budaya di tanah air kita kerana ia merupakan sumber kekuatan kita. Mari kita raikan kekuatan ini dengan gaya Sarawak (yang halal)!",infoEnglish:"Rindok Rindok Raya represents another moment where cultural subgroups in Malaysia claimed the spotlight once more. It bears reminding to both foreigners and locals that neither Malaysia's Muslims nor Malays are homogenous, which emphasises why subcultures usually deemed invisible are provided with the platform to speak up. Even to this day, we can find Malaysians that are surprised to find out how truly diverse our fellow compatriots are. Since its inception, Malaysia has never been a country of just Malays, Chinese, and Indian citizens. Even more importantly, it needs to be stressed that we are not only what we see in Malaya. To say that it is a waste to ignore our diversity is an understatement. We are gifted with a colourful range of cultures and we are stronger for it. Be merry, let loose, and celebrate halal-Sarawak style!",youtubeLink:"https://www.youtube.com/watch?v=MPeRNdSYkTM",image:"images/page35_img2.png"},{id:27,title:"Punk Ku Raya",year:"2020",performer:"Arm-Punk Sindicate",composer:"Arm-Punk Sindicate & Doktrin Anak Punk",lyricist:"Doktrin Anak Punk",extra:'"Unreleased" single',lyrics:`Bulan puasa memang banyak pancaroba
+Menahan diri dari lapar dahaga
+Ada yang tewas namun ramai yang berjaya
+Ada saja ceritanya
+
+Di hujung puasa ramai pening kepala
+Fikirkan masalah untuk berbelanja
+Namun kita punk relax sahaja
+Kita bersederhana
+
+Chorus
+Laungkan oi! oi! oi! Selamat Hari Raya
+Bermaafan kita sesama
+Laungkan oi! oi! oi! Selamat Hari Raya
+Kemenangan kita semua
+
+Yang makan gaji jadi pening sekali
+Minta cuti tapi bos tak bagi
+Dengar lagu raya hatinya jadi hiba
+Teringat ayah dan mama
+
+(Repeat Chorus 2x)
+
+Demi sebuah kemenangan
+Ketepikan sengketa
+Tiada dendam antara kita
+Berdamailah kita sesama
+
+Kita zero (Raya! Raya!)
+Kita zero zero (Raya! Raya!)
+Kita zero (Punk ku Raya!)
+Kita zero zero ooo..
+
+(Repeat Chorus 2x)`,infoMalay:"Hampir 5 tahun telah berlalu sejak wabak COVID-19 melanda negara dan tragedi ini meninggalkan parut di jiwa ramai rakyat Malaysia. Banyak nyawa terkorban, punca rezeki dihapuskan, dan ikatan silaturrahim diabaikan. Rakyat Malaysia berganding bahu menolong satu sama lain dalam perjalanan membina semula kehidupan yang telah berubah ketara. Pandemik ini memusnahkan masa depan kewangan ramai rakyat Malaysia dan menjatuhkan mereka ke bawah paras kemiskinan dan mereka yang berada di kelas pertengahan pula kini terkapai-kapai untuk meneruskan kehidupan. Inisitiaf-inisiatif rakyat seperti Bendera Putih dan Kita Jaga Kita dimulakan oleh rakyat prihatin ketika penguatkuasaan Perintah Kawalan Pergerakan (PKP). Kemunculan inisiatif-inisiatif tersebut menunjukkan semangat solidariti yang jitu dalam kalangan rakyat marhaen. Punk Ku Raya sebenarnya sebuah lagu yang tidak dilancarkan. Arm-Punk Sindicate merasakan bahawa orang ramai mungkin tidak boleh menerima unsur punk lirik karya ini. Pada waktu itu, ramai orang tidak senang terhadap apa-apa jenis hiburan kerana mengesyaki ia mungkin satu helah daripada golongan berkuasa untuk mengalih perhatian daripada isu-isu penting.",infoEnglish:`Almost 5 years have passed since the onset of the COVID-19 pandemic and the devastation left scars within the hearts of many Malaysians. Lives were lost, livelihoods ruined, and relationships fractured. Those who survived found solace in each other as they set aside differences to mend their lives and focus on survival. The economic devastation of the pandemic sunk many Malaysians below the poverty line and the remaining middle-class was struggling to stay afloat. Grassroots initiatives such as "Bendera Putih" and "Kita Jaga Kita" during the Movement Control Order (MCO) were a momentous show of solidarity amongst the nation's have-nots. Punk Ku Raya was an unreleased single. The artists were worried people might not accept the 'punk-ness' of the lyrics. Social spaces are still sometimes hostile and infused with suspicion, as people feel that those in power would use music and other forms of entertainment to distract from issues of social inequality, widespread poverty, and misuse of power.`,youtubeLink:"https://www.youtube.com/watch?v=SgwyvArQHY4",image:"images/page37_img2.png"},{id:28,title:"Hari Inikan Hari Raya",year:"2020",performer:"Kugiran Masdo",composer:"Ali Sariah",lyricist:"Ali Sariah",lyrics:`Ha
+Masuklah!
+Hari ni hari raya!
+Woah!
+
+Sebulan lamanya
+Kita di bulan puasa
+Berperang dengan suasana
+
+Ada yang kecundang
+Ada pula yang berjaya
+Menahan nafsu yang gelora
+
+Hey!
+Takbir bergema
+Memuji nama yang Esa
+Tanda kebesaran diri-Nya
+
+Kini tiba masanya
+Kita semua raikannya
+Hari raya yang mulia
+
+Kunjung mengunjungi sanak saudara
+Silaturrahim harus dijaga
+Lupakanlah segala sengketa
+Hari ini kan oh hari raya!
+
+Jemput semua datang beraya
+Ketupat lemang semua ada
+Dalam kita semua bergembira
+Jangan dilupa yang telah tiada
+
+Kunjung mengunjungi sanak saudara
+Silaturrahim harus dijaga
+Lupakanlah segala sengketa
+Hari ini kan oh hari raya!
+
+Hari ini kan
+Hari (Hari apa?)
+Hari inikan oh hari raya!`,infoMalay:"Kenangan pilu pandemik COVID-19 masih segar di minda rakyat marhaen. Kita semua terpaksa menjalankan kehidupan hampir sepenuhnya di dalam rumah, kecuali mereka yang bekerja dalam sektor penting. Walaupun sudah wujud teknologi panggilan video dan perkongsian foto, ramai rakyat Malaysia menyambut Raya pada tahun 2020 dalam keadaan sunyi dan keseorangan. Tiada apa-apa yang dapat menggantikan keseronokan balik kampung dan berjumpa dengan keluarga tersayang. Walaubagaimanapun, kita melalui pandemik ini sebagai komuniti yang erat dan saling bantu-membantu. Gerakan #KitaJagaKita membuktikan rakyat Malaysia sentiasa prihatin terhadap satu sama lain ketika dilanda malapetaka. Kita juga tidak lelah memberi semangat kepada pekerja sistem kesihatan yang bekerja siang malam untuk membendung penyebaran COVID-19. Waktu yang sukar diringankan bebannya dengan semangat bersatu-padu antara kita semua. Walaubagaimanapun, helah politik sememangnya lebih giat ketika berlakunya krisis. Langkah Sheraton menunjukkan aktiviti berpolitik sebenarnya lebih giat ketika ia berlakunya krisis.",infoEnglish:"The dark days of the COVID-19 pandemic are still fresh in the minds of everyday Malaysians. Unless you were an essential worker, your life had ultimately been reduced to only indoor activities. For many, Raya in 2020 was a lonely experience even with the availability of video calls and photo-sharing apps. Nothing felt similar to the annual ritual of balik kampung and embracing our beloved family members. However, we struggled as a collective and thus extended help to those within our community. The #KitaJagaKita movement showcased how Malaysians were there for each other in the darkest of times and we also cheered for the healthcare workers who worked tirelessly day and night. It was a challenging time but we found strength and love in each other as neighbours and fellow countrymen. Politics never stop, even in the midst of a pandemic. If anything, the Sheraton Move that year taught us that politicking was even more aggressive during times of crisis.",youtubeLink:"https://www.youtube.com/watch?v=FPS3UYAhDe8",image:""},{id:29,title:"Senandung Hari Raya Untukmu",year:"2021",performer:"Todak Music All Stars (Gerhana Ska Cinta, Shiha Zikir, Fadh Majid, Razak Aai, Dina Nasz, & Muzza)",composer:"Jay Jay",lyricist:"S Amin",extra:"Cover of Dayangku Intan's 2016 hit",lyrics:`Kusenandungkan lagu untukmu
+Yang jauh di mata
+Daku kirimkan kasih di angin lalu
+Semoga kan hilang rasa rindu
+Hilang pilu resah di kalbu
+
+Verse
+Maafkan daku
+Kerana tak dapat bersamamu, sayang
+Di Hari Raya, hari yang bahagia
+Kerana tugas pada negara
+Dan semoga kekal sejahtera
+
+Chorus 1
+Kuharap dikau gembira
+Oh, di samping ayah serta bonda
+Untuk keluarga tercinta
+Kuucapkan selamat Hari Raya
+
+Chorus 2
+Dengarlah sayang lagu untukmu
+Pengganti diriku
+Semoga kau akan terhibur selalu
+Di dalam suasana Hari Raya
+Terimalah dengan rasa bangga
+
+(Verse)
+
+(Chorus 1)
+
+(Chorus 2)
+
+(Chorus 1)
+
+Kuucapkan selamat Hari Raya`,infoMalay:"Kelihatan tanda-tanda pandemik COVID-19 semakin reda, kini tiba masanya untuk warga Malaysia bangun semula. Malangnya, kesan-kesan negatif daripada beberapa keputusan melulu akan timbul pada masa depan. Setiap kali terdapat pengumuman tentang penambahan tempoh Perintah Kawalan Pergerakan (PKP), ia sering diiringi kebenaran dari kerajaan untuk mengeluarkan wang daripada akaun Kumpulan Simpanan Wang Pekerja (KWSP). Demi melangsungkan kehidupan, kita terpaksa mencuri dari masa depan. Ini sahaja tindakan yang boleh diambil oleh kebanyakan rakyat marhaen. Terlalu ramai yang kehilangan pekerjaan atau wang simpanan terpaksa dihabiskan demi meneruskan kehidupan. Lagu ini oleh artis-artis Todak Music yang merupakan cover lagu Dayangku Intan ibarat pemberi semangat kepada kita yang terselamat daripada pandemik. Video muzik lagu ini yang tempohnya hampir 9 minit panjang menonjolkan pelbagai genre muzik yang digunakan untuk mengolah semula lagu Senandung Hari Raya Untukmu. Ia merupakan konsep menarik yang boleh ditafsirkan sebagai desakan kepada rakyat Malaysia untuk bangun semula dan cuba apa sahaja demi mencapai cita-cita yang masih bermain di hati.",infoEnglish:"With the COVID-19 pandemic finally showing signs of slowing down, it was time for Malaysians to recover. Unfortunately, some of the consequences will be felt for years and decades to come. For every announcement that renewed the duration of the Movement Control Order (MCO), they would almost always coincide with the government allowing withdrawals from our Employees Provident Fund (EPF). To survive the pandemic, we borrowed from our future selves. There was not really a choice to be made. So many had lost their jobs or dipped into their savings until none were left. Todak Music's cover of Dayangku Intan's hit was a rallying cry for survivors. The music video of the song itself is nearly 9 minutes long and highlights the various musical genres that they use to remix Senandung Hari Raya Untukmu. A bold concept that perhaps signalled to Malaysians to pick themselves up and try whatever they could to spread their wings.",youtubeLink:"https://www.youtube.com/watch?v=qjsp0txyuEk",image:""},{id:30,title:"Raya Raya Raya",year:"2021",performer:"Dolla",composer:"Ajay Amai, Mike Chan, Glowrush, Nick Ariff, Acap Salim, Somean K-Clique",lyricist:"Ajay Amai, Mike Chan, Glow Rush, Nick Ariff, Acap Salim, Somean K-Clique",lyrics:`Ramadan mulia berlalu
+Raya menjelang tiba
+Sebulan berhari raya buat semua umat manusia
+
+Tawa riang gembira
+Sebulan ibadah
+Kini Syawal yang kita rayakan
+
+Chorus
+Raya, raya, raya, raya
+Selamat Hari Raya
+Kami ucapkan kepada satu dunia
+Raya, raya, raya, raya
+Selamat Hari Raya
+Bersalam-salaman, bermaaf-maafan
+Sesama insan
+
+Yang jauh dah balik pulang
+Yang dekat sorak gembira (hey)
+Everybody nak selfie
+Semua busy raya, OOTD
+
+Salam Aidilfitri
+Saudara dan saudari
+Meraikan Syawal indah ini
+(Chorus)
+
+Rap
+OOTD aku itu OMG
+Semua baru memang hot everybody on IG
+Double tap that little white heart on that P-I-C
+Dalam-dalam sampul please, double dollar the money
+
+(Chorus)
+
+Bersalam-salaman,
+bermaaf-maafan
+Sesama insan`,infoMalay:"Tanya sahaja kepada golongan marhaen di Malaysia dan kebanyakan mereka semestinya berkongsi cerita tentang wanita-wanita yang menentang pelbagai cabaran dan melawan persepsi negatif tentang kewanitaan. Hasil ketersediaan akses internet dan telefon pintar, ramai wanita muda zaman sekarang kini mampu mempelajari tentang cerita-cerita tersebut. Raya Raya Raya dinyanyikan oleh kumpulan wanita Dolla dan ia merupakan salah satu bukti kewujudan golongan wanita muda di Malaysia yang berdikari dan mempunyai kesedaran sosial. Dalam kehidupan seharian, kita dapat melihat wanita seperti ini di media sosial dan mereka lantang bersuara tentang isu-isu penting seperti kekejaman yang berlaku di Gaza. Inilah waktu yang terbaik untuk golongan wanita mempergunakan alat-alat moden untuk mencari rakan-rakan yang sehaluan. Pendek kata, ini ialah kehebatan sebenar abad ke-21; kebebasan dan kemudahan untuk bukan sahaja mencari tetapi juga membina komuniti yang sehati sejiwa dalam aspirasi kehidupan.",infoEnglish:"Many will argue that the history of Malaysia is filled with a plethora of inspiring stories about women who defied odds and defied negative connotations of femininity. It is the proliferation of smartphones and internet access that allow the young women of today to learn about these stories. Raya Raya Raya and its girl group singers Dolla are one of the many manifestations of the modern Malaysian woman who are young, independent, and socially aware. We can see them today joining the chorus of outspoken activists who make videos on TikTok or write impassioned tweets about the causes they believe in, such as the injustice happening in Gaza. Now more than ever, it is imperative that women believe in themselves and put themselves out there so that they may find their tribes of like-minded companions. This is the true boon of 21st century digital connectivity: freedom to find and build our bespoke communities.",youtubeLink:"https://www.youtube.com/watch?v=seZsq1mD0uk",image:"images/page40_img2.png"}];class h{constructor(){this.track=document.getElementById("carousel-track"),this.prevBtn=document.getElementById("prev-btn"),this.nextBtn=document.getElementById("next-btn"),this.progressFill=document.getElementById("progress-fill"),this.modal=document.getElementById("card-modal"),this.modalBody=document.getElementById("modal-body"),this.closeModal=this.modal.querySelector(".close-modal"),this.currentIndex=0,this.totalSongs=o.length,this.init()}init(){this.renderCards(),this.updateCarousel(),this.setupEventListeners(),this.updateProgress()}renderCards(){o.forEach((a,i)=>{const t=document.createElement("div");t.className="song-card",t.setAttribute("data-index",i);const e=a.image||"images/page1_img1.jpeg";t.innerHTML=`
+                <div class="card-inner">
+                    <div class="card-top">
+                        <div class="card-year">${a.year||"---"}</div>
+                        <h3 class="card-title">${a.title.split(" (")[0]||"Unknown Title"}</h3>
+                        <p class="card-performer">${a.performer||"Unknown Performer"}</p>
+                    </div>
+                    <div class="card-visual">
+                        <img src="${e}" alt="${a.title}">
+                    </div>
+                </div>
+            `,t.addEventListener("click",()=>this.openModal(a)),this.track.appendChild(t)})}updateCarousel(){document.querySelectorAll(".song-card").forEach((i,t)=>{const e=t-this.currentIndex,n=Math.abs(e);let r=e*120,l=-n*100,s=-e*15,d=1-n*.3,m=1-n*.1;e===0?(l=100,d=1,m=1.1,i.style.borderColor="var(--clr-orange)"):i.style.borderColor="rgba(255,255,255,0.05)",i.style.transform=`translateX(${r}px) translateZ(${l}px) rotateY(${s}deg) scale(${m})`,i.style.opacity=Math.max(d,0),i.style.zIndex=100-n,i.style.pointerEvents=n>2?"none":"auto"}),this.updateProgress()}updateProgress(){const a=(this.currentIndex+1)/this.totalSongs*100;this.progressFill.style.width=`${a}%`}setupEventListeners(){this.prevBtn.addEventListener("click",()=>{this.currentIndex>0&&(this.currentIndex--,this.updateCarousel())}),this.nextBtn.addEventListener("click",()=>{this.currentIndex<this.totalSongs-1&&(this.currentIndex++,this.updateCarousel())}),document.addEventListener("keydown",a=>{a.key==="ArrowLeft"&&this.prevBtn.click(),a.key==="ArrowRight"&&this.nextBtn.click()}),this.closeModal.addEventListener("click",()=>this.toggleModal(!1)),this.modal.querySelector(".modal-backdrop").addEventListener("click",()=>this.toggleModal(!1))}getVideoEmbed(a){var t;if(!a||!a.includes("youtube.com"))return"";const i=(t=a.split("v=")[1])==null?void 0:t.split("&")[0];return i?`<div class="video-container"><iframe width="100%" height="315" src="https://www.youtube.com/embed/${i}" frameborder="0" allowfullscreen></iframe></div>`:""}openModal(a){let i="",t="";a.type==="album"?(i=`
+                <div class="album-cover-container">
+                    <a href="${a.discogsLink||"#"}" target="_blank" rel="noopener">
+                        <img src="${a.image||""}" alt="${a.title}" class="album-cover-img" onerror="this.parentElement.innerHTML='<div class=\\'no-video\\'>Album Cover</div>'" />
+                    </a>
+                </div>`,t=`
+                <div class="modal-lyrics">
+                    <h4>Tracklist</h4>
+                    <pre>${a.tracklist||""}</pre>
+                </div>`):a.type==="dual-video"?(i=`
+                <div class="dual-video-label">${a.youtubeLabel1||"Version 1"}</div>
+                ${this.getVideoEmbed(a.youtubeLink)}
+                <div class="dual-video-label">${a.youtubeLabel2||"Version 2"}</div>
+                ${this.getVideoEmbed(a.youtubeLink2)}`,t=`
+                <div class="modal-lyrics">
+                    <h4>Lyrics</h4>
+                    <pre>${a.lyrics||""}</pre>
+                </div>`):a.type==="combined"?(i=this.getVideoEmbed(a.youtubeLink)||'<div class="no-video">Video not available</div>',t=`
+                <div class="modal-lyrics combined-lyrics">
+                    <div class="lyrics-column">
+                        <h4>${a.title.split("&")[0].trim()||"Song 1"}</h4>
+                        <pre>${a.lyrics||""}</pre>
+                    </div>
+                    <div class="lyrics-column">
+                        <h4>${a.title2||"Song 2"}</h4>
+                        <pre>${a.lyrics2||""}</pre>
+                    </div>
+                </div>`):(i=this.getVideoEmbed(a.youtubeLink)||'<div class="no-video">Video not available</div>',t=`
+                <div class="modal-lyrics">
+                    <h4>Lyrics</h4>
+                    <pre>${a.lyrics||""}</pre>
+                </div>`),this.modalBody.innerHTML=`
+            <div class="modal-grid">
+                <div class="modal-media">
+                    ${i}
+                    ${t}
+                </div>
+                <div class="modal-info">
+                    <h2 class="modal-title">${a.title} (${a.year})</h2>
+                    <p class="modal-performer"><strong>Performer:</strong> ${a.performer}</p>
+                    ${a.composer?`<p class="modal-meta"><strong>Composer:</strong> ${a.composer}</p>`:""}
+                    ${a.lyricist?`<p class="modal-meta"><strong>Lyricist:</strong> ${a.lyricist}</p>`:""}
+                    ${a.extra?`<p class="modal-meta"><em>${a.extra}</em></p>`:""}
+                    <div class="info-content">
+                        <div class="info-pane">
+                            <h4>Konteks Sejarah</h4>
+                            <p>${a.infoMalay}</p>
+                        </div>
+                        <div class="info-pane">
+                            <h4>Historical Context</h4>
+                            <p>${a.infoEnglish}</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        `,this.toggleModal(!0)}toggleModal(a){this.modal.style.display=a?"flex":"none",document.body.style.overflow=a?"hidden":"auto"}jumpToIndex(a){this.currentIndex=a,this.updateCarousel(),document.getElementById("history").scrollIntoView({behavior:"smooth"})}}class g{constructor(){this.section=document.getElementById("chronicle"),this.progressLine=this.section.querySelector(".progress-line"),this.indicator=this.section.querySelector(".progress-indicator"),this.chapters=this.section.querySelectorAll(".chapter"),this.init()}init(){window.addEventListener("scroll",()=>this.handleScroll()),this.handleScroll()}handleScroll(){const a=this.section.getBoundingClientRect(),i=a.height,t=Math.max(0,Math.min(1,-a.top/(i-window.innerHeight)));this.progressLine.style.transform=`scaleY(${t})`,this.indicator.style.top=`${t*100}%`,this.chapters.forEach((e,n)=>{const r=e.getBoundingClientRect();r.top<window.innerHeight*.7&&r.bottom>window.innerHeight*.3?e.classList.add("active"):r.top>window.innerHeight&&e.classList.remove("active")})}}class k{constructor(a){this.archive=a,this.grid=document.getElementById("index-grid"),this.init()}init(){this.grid&&this.renderIndex()}renderIndex(){const a={"1930s - 1970s (I)":o.slice(0,8),"1980s - 2000s (II)":o.slice(8,22),"2010s - 2020s (III)":o.slice(22)};Object.entries(a).forEach(([i,t])=>{const e=document.createElement("div");e.className="decade-column",e.innerHTML=`
+                <h3>${i}</h3>
+                <ul class="index-list">
+                    ${t.map((n,r)=>{const l=o.indexOf(n),s=[];return n.composer&&s.push(`<span>C: ${n.composer}</span>`),n.lyricist&&s.push(`<span>L: ${n.lyricist}</span>`),n.extra&&s.push(`<span class="index-extra">${n.extra}</span>`),`
+                            <li class="index-item" data-index="${l}">
+                                <div class="index-dot"></div>
+                                <div class="index-text">
+                                    <span class="index-song-title">${n.title} (${n.year})</span>
+                                    <span class="index-song-performer">${n.performer}</span>
+                                    ${s.length>0?`<div class="index-song-details">${s.join("")}</div>`:""}
+                                </div>
+                            </li>
+                        `}).join("")}
+                </ul>
+            `,e.querySelectorAll(".index-item").forEach(n=>{n.addEventListener("click",()=>{const r=parseInt(n.getAttribute("data-index"));this.archive.jumpToIndex(r)})}),this.grid.appendChild(e)})}}class y{constructor(){this.modal=document.getElementById("article-modal"),this.contentContainer=document.getElementById("full-article-content"),this.closeBtn=this.modal.querySelector(".close-modal"),this.researchBtns=document.querySelectorAll(".read-research"),this.articleText=`
+            <p>Nearly a century after one of the earliest known “lagu Raya” recordings, Malaysians have enjoyed a joyful multitude of Hari Raya songs, in all kinds of music genres. How and when did this festive song tradition take root? And who tops the charts?</p>
+            <p>It’s become a conditioned reflex – radio and TV stations and shopping malls playing the songs of the season. All this magic from a few musical notes in the air. But it wasn’t always this way. How did the lagu Raya tradition come about, and become so popular?</p>
+
+            <h2 id="para-1">1930s: Bangsawan roots of early ‘pop stars’</h2>
+            <p>Some music history buffs and record collectors claim that the earliest documented Hari Raya song was in 1936 by bangsawan singer Miss Aminah. The song was <em>Selamat Hari Raya</em>, written by Tengku Alibasha (also known as Che Ara Bangsawan), and released by the HMV record label.</p>
+            <p>In fact, the early recording stars of the Malayan Archipelago were the who’s who in bangsawan vaudeville opera, household names in the pre-World War II days. The prima donnas of these touring troupes often had their names affixed with “Miss”, in recognition of their status.</p>
+            <p>According to Dr Raja Iskandar Raja Halid, an ethnomusicologist with Universiti Malaysia Kelantan: “Bangsawan provided the platform for Malay composers and musicians to express themselves using modern Western musical instruments and popular genres while retaining a ‘Malay’ feel to the songs.”</p>
+            <p>HMV dominated the recording scene in the 1930s and early 1940s, setting up sister companies Chap Kuching, Chap Anjing, and Chap Singa and organising events with “almost all the famous singers and bands in Malaya” to sell their records. (Even the Malayan movie industry capitalised on bangsawan – our first movie in 1933 was <em>Laila Majnun</em>, adapted from a popular bangsawan tale and featuring bangsawan stars.)</p>
+            <p>The lyrics of Miss Aminah’s 1936 <em>Selamat Hari Raya</em> reflect simpler times and a focus on fundamentals. Rather than merriment and gratitude for abundance, the song highlights Aidilfitri as the pinnacle and closure to Ramadan, a time for prayer, forgiveness, and mindfulness of the afterlife. The singer wishes listeners a long life with good provision, and hopes they will meet again next year – simple things which, after the last couple of years, we too may be less likely to take for granted.</p>
+
+            <h2 id="para-2">1930s - 1940s: ‘Like a huge jigsaw puzzle!’</h2>
+            <p>After that, documentation has been a bit of a mess. “Currently not much material and documentation is available on Malaya’s pre-war and even post-war Malaysia’s popular music history. Research on subjects such as ‘Hari Raya songs’ has to be more in-depth and wider in the sense that it is not just the song but also the channels used to play the song (radio, cinema, television). When Raya songs were played back in those early days of recorded local music, it was not so much as to promote the song and singer but to celebrate the occasion,” says Paul Augustin, the director of the Penang House of Music.</p>
+            <p>There is also debate that the first Raya song of the 1940s may have been Ahmad CB in 1940, or A. Rahman in 1941, both with a song titled <em>Selamat Hari Raya</em> – they may or may not have been singing the same song. Things came to a standstill because of the war (among other things, radios were banned). However, it also reflects gaps in documentation, resources lost to time, and that not everyone could afford radios, let alone record players.</p>
+            <p>Datuk Dr Hajjah Azizan Aiyub Ghazali, 84, former director of Kuala Lumpur Hospital, grew up without “Raya music” until she was nine or 10. “It was only the more well-off, educated or ‘important’ people who would have radios – maybe the ketua kampung, or teachers, or district officers,” she recalls. “My father was an engineer, so we had one. But even then, listening to the radio was something special – only on weekends, or during special events like the Thomas Cup.”</p>
+            <p>For theatre veteran and KLPac co-founder Datuk Faridah Merican, 84, who had a broadcasting stint on Radio Malaya in the early 1960s, her earliest memory of hearing lagu Raya on the radio was the call to prayer from the mosque. “It was and still is my favourite – a beautiful memory of Raya,” she says.</p>
+
+            <h2 id="para-3">1950s: Timeless songs, timeless singers</h2>
+            <p>According to Dr Shazlin Amir Hamzah, an ethnomusicologist with Universiti Kebangsaan Malaysia, while there were Raya songs recorded in the 1940s, “the Raya song culture never really took place until the late 1950s.”</p>
+            <p>Dr Adil Johan, senior lecturer in music at University Malaya, points to radio and films as early mediums for dissemination of Hari Raya songs. Radio Malaya was established in 1946, Radio Sarawak in 1954 and Radio Sabah in 1952. However, although numerous online users have shared information about early film releases (including films as early as 1940 released in conjunction with the Aidilfitri season), there has been little compilation of data on actual Raya songs.</p>
+            <p>Sabah and Sarawak have long had local musicians infusing Raya songs with traditional elements, but during this time the state radio broadcasts still aired music sent from headquarters. According to Lailah Elok, Head of RTM Sabah’s Show Management and Recording Library Unit, “it was in the 2000s that we began sourcing local content, which we then passed to Angkasapuri for centralised approval”.</p>
+            <p>The late 1950s saw the emergence of stars more well known from the movies and less for bangsawan, into the Raya songbook. Crucially, from the mid-1950s onwards, it saw the emergence of iconic songs, iconic singers, and in some cases, an unofficial “handover” of the reins from the old generation to the new.</p>
+            <p>A case in point is bangsawan veteran Nona Asiah, who originated two famous Raya songs – <em>Selamat Hari Raya</em> by Ahmad Jaafar and <em>Aidilfitri</em> by Zubir Said. The songs are still famous today, but the versions we know and love are covers – in 1955 by Salmah Ismail (who later became famous as Saloma) and in 1973 by Sanisah Huri.</p>
+            <p>In fact, the 1950s saw the emergence of P. Ramlee and Saloma, Malaysia’s King and Queen of Song to this day. In the mid-1950s, P. Ramlee recorded his two earliest Raya hits: <em>Suara Takbir</em> and <em>Dendang Perantau</em> (a gently moving orchestral version, in keeping with the musical trend popularised by Orkes Radio Malaya). By the time 1960 rolled around, P Ramlee and Saloma were superstars who had several hits, separately and together.</p>
+
+            <h2 id="para-4">1960s: The energy of youth!</h2>
+            <p>While there was a stronger element of merriment, Raya still tended to be a private and homely celebration within the family, not an event associated with public entertainment. Faridah recalls: “It was in the late 1950s when I was in Penang and our family would be in the kitchen bobbing our heads together to Raya songs played on the radio.”</p>
+            <p>This ecosystem of film, records and radio was joined in the 1960s by entrepreneurs - market and coffeeshop operators who invested in speakers to lure customers with radio, as well as kenduri “service providers” who operated much like event organisers today.</p>
+            <p>Composer Shamsul Cairel, 54, recalls his childhood Raya days in Bagan Serai, Perak, a little boy gawping wide-eyed at operators setting up their sound systems and bringing crates of vinyl records with all kinds of bright coloured covers. “There would be a deejay playing the records all day, and the band would only come on at night,” he says. “These event operators would go from village to village, servicing different kenduri.”</p>
+            <p>The 1960s saw more popular singers making their mark in the Raya songbook – S.M. Salim, S. Jibeng, Fazidah Joned, Ahmad Jais and Jeffrydin, to name a few. Adil Johan points to the evolution of Raya music to incorporate “popular ‘pop-yeh-yeh’ or danceable pop rock style that was the musical trend amongst Malay youth at the time” – as seen in P. Ramlee’s 1967 version of <em>Dendang Perantau</em>, with its iconic opening riff. However, jazz and pop influences were also infused, as in the songs of Ahmad Jais and Fazidah Joned.</p>
+            <p>“Every Raya, you will see more vinyl collectors looking for obscure Raya tunes. The vinyl scene in Malaysia, I feel, has reached the next level, with collectors now more interested in tracking down ‘lost’ recordings. Ordinary people are also curious and looking to dig deeper into Malaysia’s music history and Raya songs, especially those from the early 1950s and 1960s are highly coveted,” says Naza Mohamad, the owner of Sputnik Rekordz.</p>
+
+            <h2 id="para-5">After the 1960s</h2>
+            <p>As technology, musical tastes, and lifestyles continued to evolve over the next few decades, so did the Raya songbook. As Adil Johan puts it, the sounds of a favourite <em>lagu Raya</em> is associated with “... something nostalgic and endearing; as part of a cycle of festivity that is also marked by the joyous reunion of families separated and the bittersweet remembrance of those deceased.”</p>
+            <p>For disco, rock, and punk musicians, this has meant finding creative ways of expressing this feeling, in the genres closest to their heart – innovative covers which, when well done, have been well received. Clearly, for the 1970s onwards, there are vast and exciting resources to deep-dive into!</p>
+            <blockquote>“It may be ‘every song writer’s dream to have a Raya song to be remembered for eternity’... few achieve this. Saloma and P. Ramlee still rule the playlists.”</blockquote>
+            <p>Ultimately, two things are clear: Firstly, while it may be “every song writer’s dream to have a Raya song to be remembered for eternity”, as Raja Iskandar put it, few achieve this. Saloma and P. Ramlee still rule the playlists, though Sharifah Aini, DJ Dave, and of course Sudirman are some other icons still holding strong today.</p>
+            <p>Secondly, there are huge gaps in documentation of the early years, occasional confusion with similar song titles, and inconsistencies in details, requiring additional fact-checking. There has, to date, never been an official research project into lagu Raya. Clearly, the Raya journey, particularly its origins and evolution, is a rich, untapped field for future study, with potential treasures in the hands of ordinary people like us all!</p>
+        `,this.init()}init(){this.contentContainer.innerHTML=this.articleText,this.setupEventListeners()}setupEventListeners(){this.researchBtns.forEach(a=>{a.addEventListener("click",()=>{const i=a.getAttribute("data-article-target");this.openArticle(i)})}),this.closeBtn.addEventListener("click",()=>this.toggleModal(!1)),this.modal.querySelector(".modal-backdrop").addEventListener("click",()=>this.toggleModal(!1))}openArticle(a){if(this.toggleModal(!0),a){const i=document.getElementById(a);i&&setTimeout(()=>{i.scrollIntoView({behavior:"smooth",block:"start"})},100)}}toggleModal(a){this.modal.style.display=a?"flex":"none",document.body.style.overflow=a?"hidden":"auto"}}document.addEventListener("DOMContentLoaded",()=>{const u=new h;new g,new k(u),new y});
