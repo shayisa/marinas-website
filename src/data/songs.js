@@ -9,7 +9,7 @@ export const songs = [
     "infoMalay": "Lagu Selamat Hari Raya ini merupakan rakaman lagu Raya yang pertama di dunia. Ia dinyanyikan oleh Miss Aminah, seorang bintang bangsawan yang sangat popular pada zaman 1930-an. Lirik lagu ini mencerminkan tumpuan masyarakat pada waktu itu terhadap kepentingan agama dan hubungan kekeluargaan semasa menyambut Raya. Menariknya, lirik lagu ini juga menyebut tentang harapan untuk terus hidup dan berjumpa lagi pada tahun hadapan, sesuatu yang sangat relevan terutama selepas dunia baru sahaja melalui pandemik yang mencabar.",
     "infoEnglish": "This HMV release from 1936 was the first-ever recorded Hari Raya song in history. It was performed by Miss Aminah, a celebrated bangsawan (Malay opera) superstar of the 1930s. The lyrics emphasize the original religious and communal significance of the celebration, focusing on seeking forgiveness and strengthening family bonds. The song's concluding prayers for longevity and health reflected the societal anxieties of an era with rudimentary healthcare—a sentiment that resonates strongly today following the global experience of the COVID-19 pandemic.",
     "youtubeLink": "https://www.youtube.com/watch?v=OaO7kp9J7ik",
-    "image": "assets/images/page7_img2.png"
+    "image": "images/page7_img2.png"
   },
   {
     "id": 2,
@@ -23,7 +23,7 @@ export const songs = [
     "infoMalay": "Dipetik daripada filem 'Siapa Salah' arahan P. Ramlee, lagu ini dinyanyikan oleh Lena Abdullah yang menyumbangkan suaranya untuk watak lakonan Normadiah. Lagu ini membincangkan isu keadilan sosial dan jurang ekonomi antara golongan kaya dan miskin di Tanah Melayu selepas perang. Ia mencerminkan kepekaan P. Ramlee terhadap nasib golongan marhaen dan merupakan salah satu kolaborasi awal beliau bersama Jamil Sulong.",
     "infoEnglish": "Featured in the film 'Siapa Salah', this song was voiced by Lena Abdullah for the actress Normadiah. The lyrics tackle themes of social welfare and the economic divide in post-war Malaya, highlighting the disparity between the festive joy of the wealthy and the struggles of the impoverished. It showcases P. Ramlee's early commitment to social commentary and marks a significant collaboration with the legendary lyricist Jamil Sulong.",
     "youtubeLink": "https://www.youtube.com/watch?v=0wQ7M98K1_s",
-    "image": "assets/images/page8_img2.png"
+    "image": "images/page8_img2.png"
   },
   {
     "id": 3,
@@ -36,7 +36,7 @@ export const songs = [
     "infoMalay": "Lagu ini merupakan salah satu lagu Raya yang paling ikonik sepanjang zaman. Irama rancaknya sering dianggap sebagai pemula kepada suasana kemeriahan sambutan Raya. Kelunakan suara Ahmad Jais menjadikan lagu ini sentiasa segar dalam ingatan pendengar sehingga ke hari ini.",
     "infoEnglish": "Considered one of the most iconic Hari Raya songs ever recorded, its upbeat tempo is often credited with setting the festive mood for the celebration. Ahmad Jais's velvety smooth vocals have ensured its status as an evergreen classic that continues to dominate the airwaves every Syawal.",
     "youtubeLink": "https://www.youtube.com/watch?v=XW67JpE1_as",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 4,
@@ -50,7 +50,7 @@ export const songs = [
     "infoMalay": "Lagu 'Selamat Hari Raya' nyanyian Saloma ini diterbitkan pada pertengahan 1950-an, waktu di mana industri filem Melayu sedang berkembang pesat di Singapura. P. Ramlee menggubah lagu ini untuk menunjukkan suasana Raya yang meriah di bandar dan desa. Ia sering diputarkan bersama lagu Suara Takbir.",
     "infoEnglish": "Released in the mid-1950s during the height of the Malay film industry's growth in Singapore, this P. Ramlee composition was performed by the legendary Saloma. It captures the essence of Hari Raya festivities in both urban and rural settings. It is traditionally paired with P. Ramlee's Suara Takbir.",
     "youtubeLink": "https://www.youtube.com/watch?v=I8Z7j_T2E1I",
-    "image": "assets/images/page10_img2.png"
+    "image": "images/page10_img2.png"
   },
   {
     "id": 5,
@@ -64,7 +64,7 @@ export const songs = [
     "infoMalay": "Lagu 'Suara Takbir' merupakan karya agung P. Ramlee yang menangkap suasana sayu dan tenang di ambang Syawal. Alunan muzik dan liriknya yang menyentuh hati mengingatkan kita kepada keluarga dan keberkatan menjalankan ibadah puasa selama sebulan.",
     "infoEnglish": "'Suara Takbir' is P. Ramlee's masterpiece that captures the serene and contemplative atmosphere of the eve of Syawal. Its soulful melody and touching lyrics serve as a poignant reminder of familial ties and the spiritual fulfillment achieved after a month of fasting.",
     "youtubeLink": "https://www.youtube.com/watch?v=XzS6_Z-nC_s",
-    "image": "assets/images/page10_img2.png"
+    "image": "images/page10_img2.png"
   },
   {
     "id": 6,
@@ -76,7 +76,7 @@ export const songs = [
     "infoMalay": "Lagu ini merupakan satu keratan daripada filem 'Doctor' terbitan Shaw Brothers pada tahun 1958. Pada zaman 1960-an, banyak lagu Raya dipopularkan melalui filem-filem Melayu. Poster filem ini pernah dipaparkan dalam Majallah Filem pada Februari 1965.",
     "infoEnglish": "This track is a clip from the 1958 Shaw Brothers film 'Doctor'. In the 1960s, many Hari Raya songs were popularized through Malay movies. A poster from this film was featured in a 'Majallah Filem' spread in February 1965, highlighting the film stars of the day.",
     "youtubeLink": "https://www.youtube.com/watch?v=t8f8S9k3B24",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 7,
@@ -89,7 +89,7 @@ export const songs = [
     "infoMalay": "Karya ini diterbitkan beberapa tahun selepas kelahiran negara Malaysia setelah berlangsungnya penyatuan Tanah Melayu bersama Sabah, Sarawak, dan Singapura. P. Ramlee mengambil langkah berani memperkenalkan bunyi gitar elektrik moden pada konsep tradisional Raya. Lagu ini menyentuh hati ramai anak muda yang berhijrah dari luar bandar ke bandar untuk mencari rezeki.",
     "infoEnglish": "Released a few years after Malaya became Malaysia, the song reflects the zeitgeist of change and modernization. P. Ramlee integrated the galvanizing sounds of a modern electric guitar into this traditional Raya concept. It resonated deeply with young men leaving the countryside for urban opportunities, a theme that remains relevant today.",
     "youtubeLink": "https://www.youtube.com/watch?v=5YoeF5nomHY",
-    "image": "assets/images/page13_img2.png"
+    "image": "images/page13_img2.png"
   },
   {
     "id": 8,
@@ -101,7 +101,7 @@ export const songs = [
     "infoMalay": "Selamat Hari Raya merupakan album kompilasi pertama di Malaysia dan antara hasil seni paling penting dalam sejarah negara. Ia mengandungi versi moden lagu-lagu klasik yang diberikan nafas baharu dengan bunyi rancak era 70-an, termasuk alunan gitar elektrik yang ikonik.",
     "infoEnglish": "This was Malaysia's first compilation album and remains one of the most significant pieces of media in the nation's history. It featured modernized versions of classics like Saloma's 'Selamat Hari Raya' and P. Ramlee's 'Dendang Perantau', revitalized with the hit jazzier sounds of the 70s.",
     "youtubeLink": "https://www.youtube.com/watch?v=ZqP06RlaUP8",
-    "image": "assets/images/page15_img2.png"
+    "image": "images/page15_img2.png"
   },
   {
     "id": 9,
@@ -113,7 +113,7 @@ export const songs = [
     "infoMalay": "Album kompilasi mercu tanda yang diterbitkan oleh Ahmad Nawab ini memaparkan era 1970-an yang mula menerima pengaruh disko dan produksi muzik moden. Ia menyebarkan karya seni kepada golongan marhaen di kawasan bandar dan pedalaman melalui kaset dan katrij 8-trek.",
     "infoEnglish": "A landmark compilation album produced by Ahmad Nawab, it highlighted the 1970s era's embrace of disco and modern production. It leveraged the popularity of 8-track cartridges and cassettes to spread artistic works to the masses across both rural and urban Malaysia.",
     "youtubeLink": "https://www.youtube.com/watch?v=6KlhziIyqbg",
-    "image": "assets/images/page15_img2.png"
+    "image": "images/page15_img2.png"
   },
   {
     "id": 10,
@@ -126,7 +126,7 @@ export const songs = [
     "infoMalay": "Menjelang Hari Raya menampilkan sambutan terhadap alunan muzik disko yang popular pada zaman 1970-an. Waktu ini merupakan kemuncak Era Pembangunan di mana usaha pembangunan kawasan pedalaman seperti Felda giat dijalankan untuk berkongsi kemakmuran secara saksama.",
     "infoEnglish": "Bathing in the disco lights of the 70s, this song displayed an embrace towards the dancey grooves of the period. It coincided with the peak of Malaysia's Development Era, characterized by concerted efforts like Felda to ensure rural welfare and nationwide prosperity.",
     "youtubeLink": "https://www.youtube.com/watch?v=FPrjNntE0vM",
-    "image": "assets/images/page15_img2.png"
+    "image": "images/page15_img2.png"
   },
   {
     "id": 11,
@@ -139,7 +139,7 @@ export const songs = [
     "infoMalay": "Dikenali sebagai 'Seniman Rakyat', Sudirman menjiwai semangat kerja keras dan innocence. Lagu ini disukai oleh semua rakyat Malaysia tanpa mengira bangsa kerana ia merakam perasaan rindu terhadap kampung halaman di tengah kepesatan pembangunan bandar 1980-an.",
     "infoEnglish": "Known as the 'People's Singer', Sudirman embodied the hard work and success potential of the era. 'Balik Kampung' gained universal prominence due to its accurate capture of the urban population's longing for their hometowns during the rapid urbanization of the 1980s.",
     "youtubeLink": "https://www.youtube.com/watch?v=y46cfJmkNh8",
-    "image": "assets/images/page16_img2.png"
+    "image": "images/page16_img2.png"
   },
   {
     "id": 12,
@@ -151,7 +151,7 @@ export const songs = [
     "infoMalay": "Jangan Buek Laie, Yo merupakan lagu hit Raya berloghat Minang yang merakam kehidupan masyarakat luar bandar. Ia menceritakan tentang bahaya bermain mercun dan cabaran kehidupan di kampung ketika ramai anak muda mula berhijrah ke kota.",
     "infoEnglish": "This standout Minang-accented hit detailed the lives and hardships of those in rural areas. It highlights the recurring theme of firecracker safety and reflects the normalization of rural-to-urban migration as more opportunities opened up in city centers.",
     "youtubeLink": "https://www.youtube.com/watch?v=Ew5ZfFOR66M",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 13,
@@ -164,7 +164,7 @@ export const songs = [
     "infoMalay": "Zaman 1980-an dianggap sebagai era kegemilangan muzik pop Malaysia. Anuar & Ellina merupakan ikon pop remaja yang menampilkan imej kemas dan comel, merakam kegembiraan menyambut Syawal yang mendamaikan jiwa.",
     "infoEnglish": "The 1980s was considered the golden era for Malaysian pop music. Anuar & Ellina, as teenage icons, personified the neat and cute image of the period, delivering a song that emphasizes the peace and soulful joy of the festive season.",
     "youtubeLink": "https://www.youtube.com/watch?v=E_P-s7uX_I8",
-    "image": "assets/images/page19_img2.png"
+    "image": "images/page19_img2.png"
   },
   {
     "id": 14,
@@ -177,7 +177,7 @@ export const songs = [
     "infoMalay": "Zaman ini menunjukkan kehadiran penyanyi bukan Melayu seperti kumpulan Cenderawasih dalam arus perdana. Lagu ini juga mengandungi pesanan khidmat masyarakat seperti jangan asyik berbelanja, mencerminkan nilai-nilai murni dalam masyarakat.",
     "infoEnglish": "This era highlighted the visibility of non-Malay performers like Cenderawasih in mainstream media. The song includes social reminders such as avoiding excessive spending, reflecting the wholesome values promoted during the mid-80s.",
     "youtubeLink": "https://www.youtube.com/watch?v=d7FXBv3G4oE",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 15,
@@ -190,7 +190,7 @@ export const songs = [
     "infoMalay": "Lagu ini merakam keterujaan persiapan terakhir sebelum Raya. Ia menonjolkan bagaimana media penyiaran yang hanya mempunyai tiga saluran TV pada waktu itu memainkan peranan besar dalam menyebarkan pengumuman tarikh Raya kepada rakyat.",
     "infoEnglish": "This track captures the last-minute rush and excitement of festive preparations. It underscores the power of broadcast media in an era with only three TV channels, where the official Raya announcement was a major collective event for the nation.",
     "youtubeLink": "https://www.youtube.com/watch?v=LTx7_phxoZ4",
-    "image": "assets/images/page21_img2.png"
+    "image": "images/page21_img2.png"
   },
   {
     "id": 16,
@@ -201,7 +201,7 @@ export const songs = [
     "infoMalay": "Jingle ini dikaitkan dengan usaha Tun Dr. Mahathir dalam memodenkan negara melalui pelancaran kereta nasional Proton Saga. Ia mencetuskan revolusi 'balik kampung' melalui lebuhraya pertama di Semenanjung Malaysia.",
     "infoEnglish": "This jingle is tied to Tun Dr. Mahathir's push for industrialization and the launch of the Proton Saga. It symbolized the revolution of the 'balik kampung' tradition enabled by the completion of the first trans-peninsular highway.",
     "youtubeLink": "https://www.youtube.com/watch?v=9_C8DpxE3pM",
-    "image": "assets/images/page22_img2.png"
+    "image": "images/page22_img2.png"
   },
   {
     "id": 17,
@@ -214,7 +214,7 @@ export const songs = [
     "infoMalay": "Lagu jazzy-pop ini mencerminkan transformasi Malaysia menjadi Negara Industri Baru (NIC) pada akhir 80-an. Gaya muziknya yang moden sejajar dengan aspirasi negara yang semakin maju dan sofistikated.",
     "infoEnglish": "This jazzy-pop track paralleled Malaysia's transformation into a Newly Industrialized Country (NIC) in the late 80s. Its sophisticated style and R&B elements reflected the nation's growing modernity and confidence on the global stage.",
     "youtubeLink": "https://www.youtube.com/watch?v=URn8MUhDBv0",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 18,
@@ -227,7 +227,7 @@ export const songs = [
     "infoMalay": "Muncul di tengah kepesatan budaya rap tanah air, 4U2C membuktikan genre muzik moden boleh diterima dalam lagu perayaan. Kejayaan mereka mencerminkan dinamika budaya belia Malaysia pada awal 90-an.",
     "infoEnglish": "Emerging during the birth of Malaysian rap culture, 4U2C showcased how modern genres could be integrated into traditional festivities. Their success reflected the vibrant and changing dynamics of Malaysian youth culture in the early 90s.",
     "youtubeLink": "https://www.youtube.com/watch?v=yC8gO56G_cI",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 19,
@@ -240,7 +240,7 @@ export const songs = [
     "infoMalay": "Lagu rock-infusi ini diterbitkan selepas penarikan larangan terhadap pemuzik rock di media arus perdana. Ia melambangkan penerimaan semula muzik rock dalam masyarakat setelah melalui pelbagai kontroversi pada awal 90-an.",
     "infoEnglish": "This rock-influenced track followed the lifting of media bans on rockers. It symbolized the eventual mainstream acceptance of rock music in Malaysia after a period of intense social controversy and the televised hair-cutting policy of the early 90s.",
     "youtubeLink": "https://www.youtube.com/watch?v=fRp6sL0CPgg",
-    "image": "assets/images/page25_img2.png"
+    "image": "images/page25_img2.png"
   },
   {
     "id": 20,
@@ -251,7 +251,7 @@ export const songs = [
     "infoMalay": "Senario menampilkan kritikan sosial secara jenaka terhadap mereka yang mengabaikan ibadah puasa tetapi berbelanja secara berlebihan untuk Raya. Ia mencerminkan realiti masyarakat di tengah kepesatan ekonomi era dotcom 90-an.",
     "infoEnglish": "Senario utilized humor to provide social commentary on those who neglected religious duties while spending excessively on festive aesthetics. It reflected the contradictions within the booming dotcom economy and the shift towards urbanized celebrations.",
     "youtubeLink": "https://www.youtube.com/watch?v=RXj_Zlw87dM",
-    "image": "assets/images/page26_img2.png"
+    "image": "images/page26_img2.png"
   },
   {
     "id": 21,
@@ -264,7 +264,7 @@ export const songs = [
     "infoMalay": "Lagu ini merakam semangat memasuki alaf baru dan Zaman Digital. Ia dikaitkan dengan kempen 'Cinta IT' yang menampilkan Siti Nurhaliza, serta pembinaan Menara Berkembar Petronas sebagai mercu tanda kemajuan negara.",
     "infoEnglish": "This track captured the optimism of entering the new millennium and the Digital Age. It was linked to the 'Cinta IT' campaign featuring Siti Nurhaliza and the national pride surrounding the completion of the Petronas Twin Towers.",
     "youtubeLink": "https://www.youtube.com/watch?v=dl9E6_O9t7I",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 22,
@@ -275,7 +275,7 @@ export const songs = [
     "infoMalay": "Mencerminkan era selepas gelembung dotcom, lagu ini dinyanyikan oleh peserta Akademi Fantasia 1 yang mencetuskan fenomena televisyen realiti. Ia menonjolkan kepentingan komputer dan internet dalam kehidupan harian rakyat Malaysia.",
     "infoEnglish": "Reflecting the post-dotcom bubble era, this track was performed by the stars of the first 'Akademi Fantasia', marking the onset of reality TV fever. It highlighted the growing importance of personal computers and the internet in everyday life.",
     "youtubeLink": "https://www.youtube.com/watch?v=e6NwpqcKOck",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 23,
@@ -286,7 +286,7 @@ export const songs = [
     "infoMalay": "Liza Hanim menjadi terkenal dengan koleksi lagu Rayanya yang sering dimainkan di kompleks membeli-belah. Era 2006 dicorakkan oleh penggunaan telefon bimbit Nokia dan internet dail-ap, di mana lagu Raya tradisional masih mendominasi hati rakyat.",
     "infoEnglish": "Liza Hanim became synonymous with shopping mall Raya playlists. The 2006 era was defined by the ubiquity of Nokia brick phones and dial-up internet, where traditional-style Raya songs like this one struggled to compete with established classics for radio airtime.",
     "youtubeLink": "https://www.youtube.com/watch?v=Pu9YD2-Ek8c",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 24,
@@ -299,7 +299,7 @@ export const songs = [
     "infoMalay": "Kejayaan Meet Uncle Hussain dari asal-usul indie mencerminkan perkembangan mengejutkan negara yang baru pulih dari kemerosotan eksport. Industri memulakan kerjasama antara pemuzik indie dan jenama terkenal untuk menyokong bakat tempatan.",
     "infoEnglish": "The rise of indie-based Meet Uncle Hussain mirrored a period of surprising national developments as Malaysia emerged from an export slump. The music industry began bridging the gap between indie DIY ethos and commercial brand collaborations.",
     "youtubeLink": "https://www.youtube.com/watch?v=CAeieviMiwc",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 25,
@@ -312,7 +312,7 @@ export const songs = [
     "infoMalay": "Yuna membawa semangat 'Malaysia Boleh' ke persada antarabangsa. Lagu ini menonjolkan perspektif segar menyambut Raya bersama kekasih, sejajar dengan imejnya yang chic dan moden ketika negara melalui pelbagai peristiwa politik penting.",
     "infoEnglish": "Yuna personified the 'Malaysia Boleh' dream with her international success. 'Raya Oh Yeah' offered a refreshing romantic perspective on the festivities, matching her modern 'hijabista' image during a period of significant political activism in the country.",
     "youtubeLink": "https://www.youtube.com/watch?v=SGxfZJK1_Uo",
-    "image": "assets/images/page28_img2.png"
+    "image": "images/page28_img2.png"
   },
   {
     "id": 26,
@@ -323,7 +323,7 @@ export const songs = [
     "infoMalay": "Lagu berunsur keroncong ini menimbulkan nostalgia sambil mempersoalkan perubahan ekonomi dan realiti kehidupan moden yang mencabar. Ia merakam keletihan rakyat yang harus bekerja lebih keras dalam Era Digital yang matang.",
     "infoEnglish": "This keronchong-inspired track evoked nostalgia while questioning modern economic realities. It captured the burnout felt during the mature Digital Age, where citizens were working harder than ever amidst a flood of information and rising living costs.",
     "youtubeLink": "https://www.youtube.com/watch?v=h_RbGGHYaUg",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 27,
@@ -336,7 +336,7 @@ export const songs = [
     "infoMalay": "Lirik Khir Rahman merakam kerinduan terhadap kampung halaman ketika negara dilanda pelbagai tragedi penerbangan dan ketidaktentuan politik. Ia menjadi penawar rindu buat mereka yang dambakan ketenangan zaman silam.",
     "infoEnglish": "Khir Rahman's lyrics tapped into a collective yearning for simpler times during a turbulent period marked by national aviation tragedies and political scandals. It resonated with those seeking comfort in traditional roots amidst uncertainty.",
     "youtubeLink": "https://www.youtube.com/watch?v=T2WS67Eg6RA",
-    "image": "assets/images/page32_img2.png"
+    "image": "images/page32_img2.png"
   },
   {
     "id": 28,
@@ -350,7 +350,7 @@ export const songs = [
     "infoMalay": "Lagu ini menonjolkan kepelbagaian subbudaya di Malaysia, khususnya dari Sarawak. Ia mengingatkan kita bahawa identiti negara merangkumi pelbagai kaum dan budaya yang menjadi sumber kekuatan sebenar kita di tengah cabaran nasional.",
     "infoEnglish": "Highlighting East Malaysian subcultures, this song reminded citizens that the nation's identity is far from homogenous. It celebrated the diversity of Sarawakian traditions as a source of national strength during a time of widespread political gloom.",
     "youtubeLink": "https://www.youtube.com/watch?v=AQUEqqlqdPk",
-    "image": "assets/images/page35_img2.png"
+    "image": "images/page35_img2.png"
   },
   {
     "id": 29,
@@ -364,7 +364,7 @@ export const songs = [
     "infoMalay": "Diterbitkan ketika pandemik COVID-19 mula melanda, lagu punk ini merakam semangat solidariti rakyat marhaen melalui inisiatif seperti Bendera Putih. Ia menonjolkan keberanian bersuara di tengah krisis kesihatan dan politik yang mencabar.",
     "infoEnglish": "Surfacing during the COVID-19 pandemic, this unreleased punk track coincided with grassroots solidarity movements like 'Bendera Putih'. It captured the raw emotions of the working class facing economic devastation and aggressive politicking during a lockdown.",
     "youtubeLink": "https://www.youtube.com/watch?v=SgwyvARQHY4",
-    "image": "assets/images/page37_img2.png"
+    "image": "images/page37_img2.png"
   },
   {
     "id": 30,
@@ -377,7 +377,7 @@ export const songs = [
     "infoMalay": "Lagu ini merakam pengalaman sunyi menyambut Raya dalam PKP melalui panggilan video. Walaupun fizikal berjauhan, semangat #KitaJagaKita dan sokongan terhadap barisan hadapan membuktikan keutuhan komuniti Malaysia.",
     "infoEnglish": "This song captures the lonely lockdown experience of 2020, where Raya celebrations were reduced to video calls. It reflects the #KitaJagaKita spirit and the national gratitude toward healthcare workers during the peak of the pandemic.",
     "youtubeLink": "https://www.youtube.com/watch?v=RjvbEco11ls",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 31,
@@ -390,7 +390,7 @@ export const songs = [
     "infoMalay": "Cover berdurasi 9 minit ini merupakan pesanan untuk rakyat Malaysia bangun semula selepas pandemik. Ia menonjolkan pelbagai genre sebagai simbol kepelbagaian usaha yang harus diambil untuk mencapai cita-cita baharu.",
     "infoEnglish": "This 9-minute cover served as a rallying cry for post-pandemic recovery. Highlighting various musical genres, it signaled a call for Malaysians to pick themselves up and adapt to a changed world to fulfill their dreams.",
     "youtubeLink": "https://www.youtube.com/watch?v=0jsp0txyuEk",
-    "image": "assets/images/page1_img1.jpeg"
+    "image": "images/page1_img1.jpeg"
   },
   {
     "id": 32,
@@ -403,6 +403,6 @@ export const songs = [
     "infoMalay": "Dolla melambangkan identiti wanita Malaysia moden yang berdikari dan cakna isu sosial di era media sosial. Kebebasan membina komuniti digital menjadi kekuatan baharu untuk wanita dalam menyuarakan aspirasi mereka.",
     "infoEnglish": "Dolla manifested the identity of the modern, socially aware Malaysian woman in the digital age. It emphasizes the boon of 21st-century connectivity, allowing women to build bespoke communities and amplify their voices for causes like global justice.",
     "youtubeLink": "https://www.youtube.com/watch?v=seZsq1mDouk",
-    "image": "assets/images/page40_img2.png"
+    "image": "images/page40_img2.png"
   }
 ];

@@ -32,7 +32,7 @@ class AudioArchive {
             card.setAttribute('data-index', index);
             
             // Asset mapping fix: use existing assets
-            const imagePath = song.image || 'assets/images/page1_img1.jpeg';
+            const imagePath = song.image || 'images/page1_img1.jpeg';
             
             card.innerHTML = `
                 <div class="card-inner">
