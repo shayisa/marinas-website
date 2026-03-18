@@ -8,7 +8,7 @@ class AudioArchive {
         this.progressFill = document.getElementById('progress-fill');
         this.modal = document.getElementById('card-modal');
         this.modalBody = document.getElementById('modal-body');
-        this.closeModal = document.querySelector('.close-modal');
+        this.closeModal = this.modal.querySelector('.close-modal');
         
         this.currentIndex = 0;
         this.totalSongs = songs.length;
@@ -114,27 +114,71 @@ class AudioArchive {
         this.modal.querySelector('.modal-backdrop').addEventListener('click', () => this.toggleModal(false));
     }
     
+    getVideoEmbed(url) {
+        if (!url || !url.includes('youtube.com')) return '';
+        const videoId = url.split('v=')[1]?.split('&')[0];
+        if (!videoId) return '';
+        return `<div class="video-container"><iframe width="100%" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe></div>`;
+    }
+
     openModal(song) {
-        let videoEmbed = '';
-        if (song.youtubeLink && song.youtubeLink.includes('youtube.com')) {
-            const videoId = song.youtubeLink.split('v=')[1]?.split('&')[0];
-            if (videoId) {
-                videoEmbed = `
-                    <div class="video-container">
-                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/${videoId}" frameborder="0" allowfullscreen></iframe>
+        let mediaSection = '';
+        let lyricsSection = '';
+
+        if (song.type === 'album') {
+            // Album card: show album cover image + tracklist
+            mediaSection = `
+                <div class="album-cover-container">
+                    <a href="${song.discogsLink || '#'}" target="_blank" rel="noopener">
+                        <img src="${song.image || ''}" alt="${song.title}" class="album-cover-img" onerror="this.parentElement.innerHTML='<div class=\\'no-video\\'>Album Cover</div>'" />
+                    </a>
+                </div>`;
+            lyricsSection = `
+                <div class="modal-lyrics">
+                    <h4>Tracklist</h4>
+                    <pre>${song.tracklist || ''}</pre>
+                </div>`;
+        } else if (song.type === 'dual-video') {
+            // Dual video card: two video players with labels
+            mediaSection = `
+                <div class="dual-video-label">${song.youtubeLabel1 || 'Version 1'}</div>
+                ${this.getVideoEmbed(song.youtubeLink)}
+                <div class="dual-video-label">${song.youtubeLabel2 || 'Version 2'}</div>
+                ${this.getVideoEmbed(song.youtubeLink2)}`;
+            lyricsSection = `
+                <div class="modal-lyrics">
+                    <h4>Lyrics</h4>
+                    <pre>${song.lyrics || ''}</pre>
+                </div>`;
+        } else if (song.type === 'combined') {
+            // Combined card: one video, two sets of lyrics side by side
+            mediaSection = this.getVideoEmbed(song.youtubeLink) || '<div class="no-video">Video not available</div>';
+            lyricsSection = `
+                <div class="modal-lyrics combined-lyrics">
+                    <div class="lyrics-column">
+                        <h4>${song.title.split('&')[0].trim() || 'Song 1'}</h4>
+                        <pre>${song.lyrics || ''}</pre>
                     </div>
-                `;
-            }
+                    <div class="lyrics-column">
+                        <h4>${song.title2 || 'Song 2'}</h4>
+                        <pre>${song.lyrics2 || ''}</pre>
+                    </div>
+                </div>`;
+        } else {
+            // Standard card
+            mediaSection = this.getVideoEmbed(song.youtubeLink) || '<div class="no-video">Video not available</div>';
+            lyricsSection = `
+                <div class="modal-lyrics">
+                    <h4>Lyrics</h4>
+                    <pre>${song.lyrics || ''}</pre>
+                </div>`;
         }
-        
+
         this.modalBody.innerHTML = `
             <div class="modal-grid">
                 <div class="modal-media">
-                    ${videoEmbed || '<div class="no-video">Video not available</div>'}
-                    <div class="modal-lyrics">
-                        <h4>Lyrics</h4>
-                        <pre>${song.lyrics}</pre>
-                    </div>
+                    ${mediaSection}
+                    ${lyricsSection}
                 </div>
                 <div class="modal-info">
                     <h2 class="modal-title">${song.title} (${song.year})</h2>
@@ -155,7 +199,7 @@ class AudioArchive {
                 </div>
             </div>
         `;
-        
+
         this.toggleModal(true);
     }
     
@@ -222,14 +266,14 @@ class IndexController {
     }
     
     renderIndex() {
-        // Group songs by decade columns as per PDF logic
-        // PDF Column 1: Songs 1-14 (ID 1-15 in our data due to split #4)
-        // PDF Column 2: Songs 15-22 (ID 16-23)
-        // PDF Column 3: Songs 23-31 (ID 24-32)
+        // Group songs by decade columns matching PDF page 2 layout
+        // Column 1: Cards 1-8 (1930s-1950s + 1960s-1970s)
+        // Column 2: Cards 9-22 (1980s + 1990s-2000s)
+        // Column 3: Cards 23-30 (2010s-2020s)
         const decades = {
-            "1930s - 1980s (I)": songs.slice(0, 16), // IDs 1-16 (Ends with EON 1988)
-            "1989 - 2000s (II)": songs.slice(16, 24), // IDs 17-24 (Starts with Sheila Majid 1989, Ends with MUH 2009)
-            "2010s - 2020s (III)": songs.slice(24) // IDs 25-32 (Starts with Yuna 2012)
+            "1930s - 1970s (I)": songs.slice(0, 8),   // Cards 1-8: Miss Aminah through Menjelang Hari Raya
+            "1980s - 2000s (II)": songs.slice(8, 22),  // Cards 9-22: Balik Kampung through Mensyukuri Syawal
+            "2010s - 2020s (III)": songs.slice(22)      // Cards 23-30: Raya Oh Yeah through Raya Raya Raya
         };
         
         Object.entries(decades).forEach(([decade, decadeSongs]) => {
